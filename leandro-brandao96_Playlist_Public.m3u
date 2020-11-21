@@ -6,38 +6,14 @@
 
 
 
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1 HD
-https://ptiptv.tk/rtp1.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
-
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="RTP2" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-2.png",RTP 2
-https://ptiptv.tk/rtp2.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
-
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
-
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIwIDY6MDo0IFBNJmhhc2hfdmFsdWU9L0dFYW0vclFuQlpqa3FDb01wRlVCQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTRmZmUwNTM1LTQ4MzYtNDBjYi04NjU0LTdmYjQwNDFkNWQ4Yg==
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="RTP3" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-3.png",RTP 3
-http://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
-
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI 24
-https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIwIDY6MDo0IFBNJmhhc2hfdmFsdWU9b21XOXF3eFBTSmQrYi8zK2RyWmMxUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI3ZjgxMmJiLWIyY2QtNGY3NC04NjJlLTUzZTJmNzc4Y2UwNQ==
-
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
-
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-2020.png",TVI Reality - Big Brother A Revolução
-https://ptiptv.tk/tvi-direct.m3u8?jUjNVJabbhv2u1BUnOWX42F1YzI
-
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="RTPM" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.pngz",RTP Memória
-https://ptiptv.tk/rtpm.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
-
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="EURON" tvg-logo="https://www.meo.pt/PublishingImages/canais/euronews.png",Euronews
-http://euronews-pt-p9-cdn.hexaglobe.net/29795d01f9140657bfcc82380d5d77e6/5fa6e0a2/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="FR24I" tvg-logo="https://www.meo.pt/PublishingImages/canais/france-24-i.png",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
