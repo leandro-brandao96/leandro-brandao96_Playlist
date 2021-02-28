@@ -33,7 +33,7 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="A Pequena Sereia" tvg-logo="http://mrpiracy.top/images/capas/tt0097757.jpg" group-title="Filmes",A Pequena Sereia
+#EXTINF:-1 tvg-id="1" tvg-name="A Pequena Sereia" tvg-logo="http://mrpiracy.top/images/capas/tt0097757.jpg" group-title="Filmes" pltv-subgroup="Animação",A Pequena Sereia
 https://archive.org/download/a-pequena-sereia/A%20Pequena%20Sereia.mp4
 
 #EXTINF:-1 tvg-id="2" tvg-name="A Pequena Sereia 2 Regresso ao Mar" tvg-logo="http://mrpiracy.top/images/capas/tt0240684.jpg" group-title="Filmes",A Pequena Sereia 2 Regresso ao Mar
@@ -5028,3 +5028,153 @@ https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/499.mp4
 
 #EXTINF:-1 tvg-id="500" tvg-name="Ep.500 - Liberdade roubada! A armadilha dos Nobres se aproxima dos três irmãos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.500 - Liberdade roubada! A armadilha dos Nobres se aproxima dos três irmãos
 https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/500.mp4
+
+#EXTINF:-1 tvg-id="501" tvg-name="Ep.501 - As chamas estão acesas – O Terminal Cinza está em crise" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.501 - As chamas estão acesas – O Terminal Cinza está em crise
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/501.mp4
+
+#EXTINF:-1 tvg-id="502" tvg-name="Ep.502 - Onde está a liberdade? A triste partida do garoto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.502 - Onde está a liberdade? A triste partida do garoto
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/502.mp4
+
+#EXTINF:-1 tvg-id="503" tvg-name="Ep.503 - Conto com você! Uma carta do irmão!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.503 - Conto com você! Uma carta do irmão!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/503.mp4
+
+#EXTINF:-1 tvg-id="504" tvg-name="Ep.504 - Para Cumprir a Promessa. Partidas Separadas!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.504 - Para Cumprir a Promessa. Partidas Separadas!
+https://www.animeson.club/one-piece/1627.mp4
+
+#EXTINF:-1 tvg-id="505" tvg-name="Ep.505 - Eu quero vê-los! O grito cheio de lágrimas de Luffy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.505 - Eu quero vê-los! O grito cheio de lágrimas de Luffy
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/505.mp4
+
+#EXTINF:-1 tvg-id="506" tvg-name="Ep.506 - O bando do Chapéu de Palha chocado! A má notícia se espalha!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.506 - O bando do Chapéu de Palha chocado! A má notícia se espalha!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/506.mp4
+
+#EXTINF:-1 tvg-id="507" tvg-name="Ep.507 - Reunido com o Rei das Trevas! A hora da decisão de Luffy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.507 - Reunido com o Rei das Trevas! A hora da decisão de Luffy
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/507.mp4
+
+#EXTINF:-1 tvg-id="508" tvg-name="Ep.508 - Ao nosso capitão! A fuga da Ilha do Céu e o incidente na Ilha de Inverno" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.508 - Ao nosso capitão! A fuga da Ilha do Céu e o incidente na Ilha de Inverno
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/508.mp4
+
+#EXTINF:-1 tvg-id="509" tvg-name="Ep.509 - Natureza! O Grande Espadachim Mihawk! Zoro o Guerreiro Invencivel!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.509 - Natureza! O Grande Espadachim Mihawk! Zoro o Guerreiro Invencivel!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/509.mp4
+
+#EXTINF:-1 tvg-id="510" tvg-name="Ep.510 - O sofrimento do Sanji – A Rainha retorna para o seu reino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.510 - O sofrimento do Sanji – A Rainha retorna para o seu reino
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/510.mp4
+
+#EXTINF:-1 tvg-id="511" tvg-name="Ep.511 - Improvável Retorno! Luffy vai ao Quartel General da Marinha!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.511 - Improvável Retorno! Luffy vai ao Quartel General da Marinha!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/511.mp4
+
+#EXTINF:-1 tvg-id="512" tvg-name="Ep.512 - Reportem aos Companheiros – A Grande Notícia se Espalha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.512 - Reportem aos Companheiros – A Grande Notícia se Espalha
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/512.mp4
+
+#EXTINF:-1 tvg-id="513" tvg-name="Ep.513 - Os Piratas Começam a se Mover! O Assombroso Novo Mundo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.513 - Os Piratas Começam a se Mover! O Assombroso Novo Mundo!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/513.mp4
+
+#EXTINF:-1 tvg-id="514" tvg-name="Ep.514 - Sobrevivendo ao inferno – O duelo de homem do Sanji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.514 - Sobrevivendo ao inferno – O duelo de homem do Sanji
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/514.mp4
+
+#EXTINF:-1 tvg-id="515" tvg-name="Ep.515 - Eu serei ainda mais forte! O juramento de Zoro ao capitão!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.515 - Eu serei ainda mais forte! O juramento de Zoro ao capitão!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/515.mp4
+
+#EXTINF:-1 tvg-id="516" tvg-name="Ep.516 - Luffy começa o treinamento - Em dois anos vejo vocês no lugar prometido!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.516 - Luffy começa o treinamento - Em dois anos vejo vocês no lugar prometido!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/516.mp4
+
+#EXTINF:-1 tvg-id="517" tvg-name="Ep.517 - Um novo capítulo começa - Reúnam-se! Bando do Chapéu de Palha!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.517 - Um novo capítulo começa - Reúnam-se! Bando do Chapéu de Palha!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/517.mp4
+
+#EXTINF:-1 tvg-id="518" tvg-name="Ep.518 - Uma situação explosiva! Luffy vs falso Luffy!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.518 - Uma situação explosiva! Luffy vs falso Luffy!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/518.mp4
+
+#EXTINF:-1 tvg-id="519" tvg-name="Ep.519 - Marinha entra em ação! O alvo é o bando do Chapéu de Palha!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.519 - Marinha entra em ação! O alvo é o bando do Chapéu de Palha!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/519.mp4
+
+#EXTINF:-1 tvg-id="520" tvg-name="Ep.520 - Grandes armas montadas! A ameaça dos falsos Chapéus de Palha!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.520 - Grandes armas montadas! A ameaça dos falsos Chapéus de Palha!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/520.mp4
+
+#EXTINF:-1 tvg-id="521" tvg-name="Ep.521 - Começa a batalha! Mostrem o resultado do treinamento!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.521 - Começa a batalha! Mostrem o resultado do treinamento!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/521.mp4
+
+#EXTINF:-1 tvg-id="522" tvg-name="Ep.522 - Todos reunidos! Luffy zarpa para o Novo Mundo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.522 - Todos reunidos! Luffy zarpa para o Novo Mundo!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/522.mp4
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ep.523 - Verdade chocante! O homem que protegeu o Sunny!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.523 - Verdade chocante! O homem que protegeu o Sunny!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/523.mp4
+
+#EXTINF:-1 tvg-id="524" tvg-name="Ep.524 - Confusão abaixo do mar! O Demônio dos Oceanos aparece!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.524 - Confusão abaixo do mar! O Demônio dos Oceanos aparece!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/524.mp4
+
+#EXTINF:-1 tvg-id="525" tvg-name="Ep.525 - Perdidos no fundo do mar! O bando do Chapéu de Palha se separa!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.525 - Perdidos no fundo do mar! O bando do Chapéu de Palha se separa!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/525.mp4
+
+#EXTINF:-1 tvg-id="526" tvg-name="Ep.526 - A erupção do vulcão submerso! Levados para a ilha dos Homens-Peixe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.526 - A erupção do vulcão submerso! Levados para a ilha dos Homens-Peixe
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/526.mp4
+
+#EXTINF:-1 tvg-id="527" tvg-name="Ep.527 - Desembarque na Ilha dos Homens-Peixe! As amáveis sereias!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.527 - Desembarque na Ilha dos Homens-Peixe! As amáveis sereias!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/527.mp4
+
+#EXTINF:-1 tvg-id="528" tvg-name="Ep.528 - Explosão de Excitação! A Declaração da Crise De Sanji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.528 - Explosão de Excitação! A Declaração da Crise De Sanji
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/528.mp4
+
+#EXTINF:-1 tvg-id="529" tvg-name="Ep.529 - Destruição da Ilha dos Homens-Peixe? A Previsão de Shirley" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.529 - Destruição da Ilha dos Homens-Peixe? A Previsão de Shirley
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/529.mp4
+
+#EXTINF:-1 tvg-id="530" tvg-name="Ep.530 - O Rei da Ilha dos Homens-Peixe – O Deus do Mar Netuno!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.530 - O Rei da Ilha dos Homens-Peixe – O Deus do Mar Netuno!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/530.mp4
+
+#EXTINF:-1 tvg-id="531" tvg-name="Ep.531 - Palácio de Ryuugu! Conduzindo o tubarão ajudado!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.531 - Palácio de Ryuugu! Conduzindo o tubarão ajudado!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/531.mp4
+
+#EXTINF:-1 tvg-id="532" tvg-name="Ep.532 - O bebê-chorão covarde! A torre da Princesa Sereia!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.532 - O bebê-chorão covarde! A torre da Princesa Sereia!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/532.mp4
+
+#EXTINF:-1 tvg-id="533" tvg-name="Ep.533 - Situação de emergência! O palácio Ryuugu é atacado!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.533 - Situação de emergência! O palácio Ryuugu é atacado!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/533.mp4
+
+#EXTINF:-1 tvg-id="534" tvg-name="Ep.534 - Palácio Ryuugu em caos! O sequestro de Shirahoshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.534 - Palácio Ryuugu em caos! O sequestro de Shirahoshi
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/534.mp4
+
+#EXTINF:-1 tvg-id="535" tvg-name="Ep.535 - A Invasão do Hody – Começa o Plano de Vingança" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.535 - A Invasão do Hody – Começa o Plano de Vingança
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/535.mp4
+
+#EXTINF:-1 tvg-id="536" tvg-name="Ep.536 - A luta no palácio Ryuugu! Zoro vs Hody" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.536 - A luta no palácio Ryuugu! Zoro vs Hody
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/536.mp4
+
+#EXTINF:-1 tvg-id="537" tvg-name="Ep.537 - Proteja a Shirahoshi! A Perseguição de Decken" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.537 - Proteja a Shirahoshi! A Perseguição de Decken
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/537.mp4
+
+#EXTINF:-1 tvg-id="538" tvg-name="Ep.538 - O Bando Derrotado!? Hody Controla o Palácio Ryuugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.538 - O Bando Derrotado!? Hody Controla o Palácio Ryuugu
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/538.mp4
+
+#EXTINF:-1 tvg-id="539" tvg-name="Ep.539 - Relembrando a Fatalidade! Nami e os Piratas Homens-Peixe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.539 - Relembrando a Fatalidade! Nami e os Piratas Homens-Peixe
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/539.mp4
+
+#EXTINF:-1 tvg-id="540" tvg-name="Ep.540 - O Herói Libertador de Escravos – O Aventureiro Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.540 - O Herói Libertador de Escravos – O Aventureiro Tiger
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/540.mp4
+
+#EXTINF:-1 tvg-id="541" tvg-name="Ep.541 - Kizaru Aparece! Tiger Segue Para Uma Armadilha!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.541 - Kizaru Aparece! Tiger Segue Para Uma Armadilha!
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/541.mp4
+
+#EXTINF:-1 tvg-id="542" tvg-name="Ep.542 - O Time Está Formado! Salvem o Chopper" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.542 - O Time Está Formado! Salvem o Chopper
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/542.mp4
+
+#EXTINF:-1 tvg-id="543" tvg-name="Ep.543 - O Fim do Herói – A Verdade Chocante de Tiger" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.543 - O Fim do Herói – A Verdade Chocante de Tiger
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/543.mp4
+
+#EXTINF:-1 tvg-id="544" tvg-name="Ep.544 - A Separação dos Piratas – Jinbe Vs Arlong" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.544 - A Separação dos Piratas – Jinbe Vs Arlong
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/544.mp4
+
+#EXTINF:-1 tvg-id="545" tvg-name="Ep.545 - A Ilha dos Homens-Peixe Treme! O Naufrágio do Tenryuubito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.545 - A Ilha dos Homens-Peixe Treme! O Naufrágio do Tenryuubito
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/545.mp4
+
+#EXTINF:-1 tvg-id="546" tvg-name="Ep.546 - Uma Tragédia Inesperada! A Bala Assassina que Bloqueia o Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.546 - Uma Tragédia Inesperada! A Bala Assassina que Bloqueia o Futuro
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/546.mp4
+
+#EXTINF:-1 tvg-id="547" tvg-name="Ep.547 - De volta ao presente! Hody começa a se mover" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.547 - De volta ao presente! Hody começa a se mover
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/547.mp4
+
+#EXTINF:-1 tvg-id="548" tvg-name="Ep.548 - Abalo no Reino Ryugu – A Ordem de Execução Para Neptune" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.548 - Abalo no Reino Ryugu – A Ordem de Execução Para Neptune
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/548.mp4
+
+#EXTINF:-1 tvg-id="549" tvg-name="Ep.549 - Diferenças Inesperadas! Luffy vs Jinbe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.549 - Diferenças Inesperadas! Luffy vs Jinbe
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/549.mp4
+
+#EXTINF:-1 tvg-id="550" tvg-name="Ep.550 - A Transformação de Hody. O verdadeiro poder da droga maligna" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.550 - A Transformação de Hody. O verdadeiro poder da droga maligna
+https://videos.animesgratisbr.com/pubfolder/animes/Onepiece/550.mp4
