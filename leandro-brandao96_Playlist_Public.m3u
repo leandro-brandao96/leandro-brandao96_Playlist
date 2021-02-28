@@ -33,7 +33,7 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="A Pequena Sereia" tvg-logo="http://mrpiracy.top/images/capas/tt0097757.jpg" group-title="Filmes" pltv-subgroup="Animação",A Pequena Sereia
+#EXTINF:-1 tvg-id="1" tvg-name="A Pequena Sereia" tvg-logo="http://mrpiracy.top/images/capas/tt0097757.jpg" group-title="Filmes" subgroup="Animação",A Pequena Sereia
 https://archive.org/download/a-pequena-sereia/A%20Pequena%20Sereia.mp4
 
 #EXTINF:-1 tvg-id="2" tvg-name="A Pequena Sereia 2 Regresso ao Mar" tvg-logo="http://mrpiracy.top/images/capas/tt0240684.jpg" group-title="Filmes",A Pequena Sereia 2 Regresso ao Mar
