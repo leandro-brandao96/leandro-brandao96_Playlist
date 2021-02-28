@@ -33,82 +33,86 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="A Pequena Sereia" tvg-logo="http://mrpiracy.top/images/capas/tt0097757.jpg" group-title="Filmes" subgroup="Animação",A Pequena Sereia
+##   Animação PT   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="A Pequena Sereia" tvg-logo="http://mrpiracy.top/images/capas/tt0097757.jpg" group-title="Filmes Animação PT",A Pequena Sereia
 https://archive.org/download/a-pequena-sereia/A%20Pequena%20Sereia.mp4
 
-#EXTINF:-1 tvg-id="2" tvg-name="A Pequena Sereia 2 Regresso ao Mar" tvg-logo="http://mrpiracy.top/images/capas/tt0240684.jpg" group-title="Filmes",A Pequena Sereia 2 Regresso ao Mar
+#EXTINF:-1 tvg-id="2" tvg-name="A Pequena Sereia 2 Regresso ao Mar" tvg-logo="http://mrpiracy.top/images/capas/tt0240684.jpg" group-title="Filmes Animação PT",A Pequena Sereia 2 Regresso ao Mar
 https://archive.org/download/a-pequena-sereia-2-regresso-ao-mar/A%20Pequena%20Sereia%202%20Regresso%20ao%20Mar.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-name="O Segredo da Pequena Sereia" tvg-logo="http://mrpiracy.top/images/capas/tt0969647.jpg" group-title="Filmes",O Segredo da Pequena Sereia
+#EXTINF:-1 tvg-id="3" tvg-name="O Segredo da Pequena Sereia" tvg-logo="http://mrpiracy.top/images/capas/tt0969647.jpg" group-title="Filmes Animação PT",O Segredo da Pequena Sereia
 https://archive.org/download/o-segredo-da-pequena-sereia/O%20Segredo%20da%20Pequena%20Sereia.mp4
 
-#EXTINF:-1 tvg-id="4" tvg-name="Branca de Neve e os Sete Anões" tvg-logo="http://mrpiracy.top/images/capas/tt0029583.jpg" group-title="Filmes",Branca de Neve e os Sete Anões
+#EXTINF:-1 tvg-id="4" tvg-name="Branca de Neve e os Sete Anões" tvg-logo="http://mrpiracy.top/images/capas/tt0029583.jpg" group-title="Filmes Animação PT",Branca de Neve e os Sete Anões
 https://archive.org/download/branca-de-neve-e-os-sete-anoes/Branca%20de%20Neve%20e%20os%20Sete%20An%C3%B5es.mp4
 
-#EXTINF:-1 tvg-id="5" tvg-name="Pinóquio" tvg-logo="http://mrpiracy.top/images/capas/tt0032910.jpg" group-title="Filmes",Pinóquio
+#EXTINF:-1 tvg-id="5" tvg-name="Pinóquio" tvg-logo="http://mrpiracy.top/images/capas/tt0032910.jpg" group-title="Filmes Animação PT",Pinóquio
 https://archive.org/download/pinoquio_202102/Pin%C3%B3quio.mp4
 
-#EXTINF:-1 tvg-id="6" tvg-name="Dumbo" tvg-logo="http://mrpiracy.top/images/capas/tt0033563.jpg" group-title="Filmes",Dumbo
+#EXTINF:-1 tvg-id="6" tvg-name="Dumbo" tvg-logo="http://mrpiracy.top/images/capas/tt0033563.jpg" group-title="Filmes Animação PT",Dumbo
 https://archive.org/download/dumbo_202102/Dumbo.mp4
 
-#EXTINF:-1 tvg-id="7" tvg-name="Bambi" tvg-logo="http://mrpiracy.top/images/capas/tt0034492.jpg" group-title="Filmes",Bambi
+#EXTINF:-1 tvg-id="7" tvg-name="Bambi" tvg-logo="http://mrpiracy.top/images/capas/tt0034492.jpg" group-title="Filmes Animação PT",Bambi
 https://archive.org/download/bambi_202102/Bambi.mp4
 
-#EXTINF:-1 tvg-id="8" tvg-name="Bambi 2 - O Grande Príncipe da Floresta" tvg-logo="http://mrpiracy.top/images/capas/tt0447854.jpg" group-title="Filmes",Bambi 2 - O Grande Príncipe da Floresta
+#EXTINF:-1 tvg-id="8" tvg-name="Bambi 2 - O Grande Príncipe da Floresta" tvg-logo="http://mrpiracy.top/images/capas/tt0447854.jpg" group-title="Filmes Animação PT",Bambi 2 - O Grande Príncipe da Floresta
 https://archive.org/download/bambi-2-o-grande-principe-da-floresta/Bambi%202%20-%20O%20Grande%20Pr%C3%ADncipe%20da%20Floresta.mp4
 
-#EXTINF:-1 tvg-id="9" tvg-name="Cinderella - A Gata Borralheira" tvg-logo="http://mrpiracy.top/images/capas/tt0042332.jpg" group-title="Filmes",Cinderella - A Gata Borralheira
+#EXTINF:-1 tvg-id="9" tvg-name="Cinderella - A Gata Borralheira" tvg-logo="http://mrpiracy.top/images/capas/tt0042332.jpg" group-title="Filmes Animação PT",Cinderella - A Gata Borralheira
 https://archive.org/download/cinderella-a-gata-borralheira/Cinderella%20-%20A%20Gata%20Borralheira.mp4
 
-#EXTINF:-1 tvg-id="10" tvg-name="Cinderella II - Os Sonhos Tornam-se Realidade" tvg-logo="http://mrpiracy.top/images/capas/tt0291082.jpg" group-title="Filmes",Cinderella II - Os Sonhos Tornam-se Realidade
+#EXTINF:-1 tvg-id="10" tvg-name="Cinderella II - Os Sonhos Tornam-se Realidade" tvg-logo="http://mrpiracy.top/images/capas/tt0291082.jpg" group-title="Filmes Animação PT",Cinderella II - Os Sonhos Tornam-se Realidade
 https://archive.org/download/cinderella-ii-os-sonhos-tornam-se-realidade/Cinderella%20II%20-%20Os%20Sonhos%20Tornam-se%20Realidade.mp4
 
-#EXTINF:-1 tvg-id="11" tvg-name="Cinderela III - Reviravolta no Tempo" tvg-logo="http://mrpiracy.top/images/capas/tt0465940.jpg" group-title="Filmes",Cinderela III - Reviravolta no Tempo
+#EXTINF:-1 tvg-id="11" tvg-name="Cinderela III - Reviravolta no Tempo" tvg-logo="http://mrpiracy.top/images/capas/tt0465940.jpg" group-title="Filmes Animação PT",Cinderela III - Reviravolta no Tempo
 https://archive.org/download/cinderela-iii-reviravolta-no-tempo/Cinderela%20III%20-%20Reviravolta%20no%20Tempo.mp4
 
-#EXTINF:-1 tvg-id="12" tvg-name="As Aventuras de Peter Pan" tvg-logo="http://mrpiracy.top/images/capas/tt0046183.jpg" group-title="Filmes",As Aventuras de Peter Pan
+#EXTINF:-1 tvg-id="12" tvg-name="As Aventuras de Peter Pan" tvg-logo="http://mrpiracy.top/images/capas/tt0046183.jpg" group-title="Filmes Animação PT",As Aventuras de Peter Pan
 https://archive.org/download/as-aventuras-de-peter-pan/As%20Aventuras%20de%20Peter%20Pan.mp4
 
-#EXTINF:-1 tvg-id="13" tvg-name="Peter Pan em a Terra do Nunca" tvg-logo="http://mrpiracy.top/images/capas/tt0280030.jpg" group-title="Filmes",Peter Pan em a Terra do Nunca
+#EXTINF:-1 tvg-id="13" tvg-name="Peter Pan em a Terra do Nunca" tvg-logo="http://mrpiracy.top/images/capas/tt0280030.jpg" group-title="Filmes Animação PT",Peter Pan em a Terra do Nunca
 https://archive.org/download/peter-pan-em-a-terra-do-nunca/Peter%20Pan%20em%20a%20Terra%20do%20Nunca.mp4
 
-#EXTINF:-1 tvg-id="14" tvg-name="A Dama e o Vagabundo" tvg-logo="http://mrpiracy.top/images/capas/tt0048280.jpg" group-title="Filmes",A Dama e o Vagabundo
+#EXTINF:-1 tvg-id="14" tvg-name="A Dama e o Vagabundo" tvg-logo="http://mrpiracy.top/images/capas/tt0048280.jpg" group-title="Filmes Animação PT",A Dama e o Vagabundo
 https://archive.org/download/a-dama-e-o-vagabundo_202102/A%20Dama%20e%20o%20Vagabundo.mp4
 
-#EXTINF:-1 tvg-id="15" tvg-name="A Dama e o Vagabundo 2 - As Aventuras de Banzé" tvg-logo="http://mrpiracy.top/images/capas/tt0249677.jpg" group-title="Filmes",A Dama e o Vagabundo 2 - As Aventuras de Banzé
+#EXTINF:-1 tvg-id="15" tvg-name="A Dama e o Vagabundo 2 - As Aventuras de Banzé" tvg-logo="http://mrpiracy.top/images/capas/tt0249677.jpg" group-title="Filmes Animação PT",A Dama e o Vagabundo 2 - As Aventuras de Banzé
 https://archive.org/download/a-dama-e-o-vagabundo-2-as-aventuras-de-banze/A%20Dama%20e%20o%20Vagabundo%202%20-%20As%20Aventuras%20de%20Banz%C3%A9.mp4
 
-#EXTINF:-1 tvg-id="16" tvg-name="A Bela Adormecida" tvg-logo="http://mrpiracy.top/images/capas/tt0053285PT.jpg" group-title="Filmes",A Bela Adormecida
+#EXTINF:-1 tvg-id="16" tvg-name="A Bela Adormecida" tvg-logo="http://mrpiracy.top/images/capas/tt0053285PT.jpg" group-title="Filmes Animação PT",A Bela Adormecida
 https://archive.org/download/a-bela-adormecida/A%20Bela%20Adormecida.mp4
 
-#EXTINF:-1 tvg-id="17" tvg-name="Os 101 Dálmatas" tvg-logo="http://mrpiracy.top/images/capas/tt0055254.jpg" group-title="Filmes",Os 101 Dálmatas
+#EXTINF:-1 tvg-id="17" tvg-name="Os 101 Dálmatas" tvg-logo="http://mrpiracy.top/images/capas/tt0055254.jpg" group-title="Filmes Animação PT",Os 101 Dálmatas
 https://archive.org/download/os-101-dalmatas/Os%20101%20D%C3%A1lmatas.mp4
 
-#EXTINF:-1 tvg-id="18" tvg-name="Os 101 Dálmatas II - A Aventura de Patch em Londres" tvg-logo="http://mrpiracy.top/images/capas/tt0324941.jpg" group-title="Filmes",Os 101 Dálmatas II - A Aventura de Patch em Londres
+#EXTINF:-1 tvg-id="18" tvg-name="Os 101 Dálmatas II - A Aventura de Patch em Londres" tvg-logo="http://mrpiracy.top/images/capas/tt0324941.jpg" group-title="Filmes Animação PT",Os 101 Dálmatas II - A Aventura de Patch em Londres
 https://archive.org/download/os-101-dalmatas-ii-a-aventura-de-patch-em-londres/Os%20101%20D%C3%A1lmatas%20II%20-%20A%20Aventura%20de%20Patch%20em%20Londres.mp4
 
-#EXTINF:-1 tvg-id="19" tvg-name="Alice no País das Maravilhas" tvg-logo="http://mrpiracy.top/images/capas/tt0043274.jpg" group-title="Filmes",Alice no País das Maravilhas
+#EXTINF:-1 tvg-id="19" tvg-name="Alice no País das Maravilhas" tvg-logo="http://mrpiracy.top/images/capas/tt0043274.jpg" group-title="Filmes Animação PT",Alice no País das Maravilhas
 https://archive.org/download/alice-no-pais-das-maravilhas/Alice%20no%20Pa%C3%ADs%20das%20Maravilhas.mp4
 
-#EXTINF:-1 tvg-id="20" tvg-name="O Livro da Selva" tvg-logo="http://mrpiracy.top/images/capas/tt0061852.jpg" group-title="Filmes",O Livro da Selva
+#EXTINF:-1 tvg-id="20" tvg-name="O Livro da Selva" tvg-logo="http://mrpiracy.top/images/capas/tt0061852.jpg" group-title="Filmes Animação PT",O Livro da Selva
 https://archive.org/download/o-livro-da-selva/O%20Livro%20da%20Selva.mp4
 
-#EXTINF:-1 tvg-id="21" tvg-name="O Livro da Selva 2" tvg-logo="http://mrpiracy.top/images/capas/tt0283426.jpg" group-title="Filmes",O Livro da Selva 2
+#EXTINF:-1 tvg-id="21" tvg-name="O Livro da Selva 2" tvg-logo="http://mrpiracy.top/images/capas/tt0283426.jpg" group-title="Filmes Animação PT",O Livro da Selva 2
 https://archive.org/download/o-livro-da-selva-2/O%20Livro%20da%20Selva%202.mp4
 
-#EXTINF:-1 tvg-id="22" tvg-name="Robin dos Bosques" tvg-logo="http://mrpiracy.top/images/capas/tt0070608.jpg" group-title="Filmes",Robin dos Bosques
+#EXTINF:-1 tvg-id="22" tvg-name="Robin dos Bosques" tvg-logo="http://mrpiracy.top/images/capas/tt0070608.jpg" group-title="Filmes Animação PT",Robin dos Bosques
 https://archive.org/download/robin-dos-bosques/Robin%20dos%20Bosques.mp4
 
-#EXTINF:-1 tvg-id="23" tvg-name="Tin Tin e o Templo do Sol" tvg-logo="http://mrpiracy.top/images/capas/tt0065106.jpg" group-title="Filmes",Tin Tin e o Templo do Sol
+#EXTINF:-1 tvg-id="23" tvg-name="Tin Tin e o Templo do Sol" tvg-logo="http://mrpiracy.top/images/capas/tt0065106.jpg" group-title="Filmes Animação PT",Tin Tin e o Templo do Sol
 https://archive.org/download/tin-tin-e-o-templo-do-sol/Tin%20Tin%20e%20o%20Templo%20do%20Sol.mp4
 
-#EXTINF:-1 tvg-id="24" tvg-name="Lucky Luke - Daisy Town" tvg-logo="http://mrpiracy.top/images/capas/tt0145891.jpg" group-title="Filmes",Lucky Luke - Daisy Town
+#EXTINF:-1 tvg-id="24" tvg-name="Lucky Luke - Daisy Town" tvg-logo="http://mrpiracy.top/images/capas/tt0145891.jpg" group-title="Filmes Animação PT",Lucky Luke - Daisy Town
 https://archive.org/download/lucky-luke-daisy-town/Lucky%20Luke%20-%20Daisy%20Town.mp4
 
-#EXTINF:-1 tvg-id="25" tvg-name="Astérix o Gaulês" tvg-logo="http://mrpiracy.top/images/capas/tt0061369.jpg" group-title="Filmes",Astérix o Gaulês
+#EXTINF:-1 tvg-id="25" tvg-name="Astérix o Gaulês" tvg-logo="http://mrpiracy.top/images/capas/tt0061369.jpg" group-title="Filmes Animação PT",Astérix o Gaulês
 https://archive.org/download/asterix-o-gaules/Ast%C3%A9rix%20o%20Gaul%C3%AAs.mp4
 
-#EXTINF:-1 tvg-id="26" tvg-name="Tin Tin e o Lago dos Tubarões" tvg-logo="http://mrpiracy.top/images/capas/tt0069383.jpg" group-title="Filmes",Tin Tin e o Lago dos Tubarões
+#EXTINF:-1 tvg-id="26" tvg-name="Tin Tin e o Lago dos Tubarões" tvg-logo="http://mrpiracy.top/images/capas/tt0069383.jpg" group-title="Filmes Animação PT",Tin Tin e o Lago dos Tubarões
 https://archive.org/download/tin-tin-e-o-lago-dos-tubaroes/Tin%20Tin%20e%20o%20Lago%20dos%20Tubar%C3%B5es.mp4
 
 
