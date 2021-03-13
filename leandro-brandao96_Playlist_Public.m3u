@@ -9,6 +9,9 @@
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
+#EXTINF:-1 group-title="FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIxIDI6MDoxIEFNJmhhc2hfdmFsdWU9alo5NFlaNWx0VSswRmF5blhPRm1SUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEyMGM1ZmE2LTYwMDItNGRhYy05ZTNkLTYxNDY2ZGYyYzUxNQ==
+
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
@@ -1279,6 +1282,63 @@ https://archive.org/download/twd-s10/TWD_S10E17.mp4
 
 #EXTINF:-1 tvg-id="149" tvg-name="S10E18 - Find Me" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/250px-The_Walking_Dead_2010_logo.svg.png" group-title="The Walking Dead" subtitles="https://archive.org/download/twd-s10/TWD_S10E18.srt",S10E18 - Find Me
 https://archive.org/download/twd-s10/TWD_S10E18.mp4
+
+
+
+##   Snowpiercer   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="S01E01 - First the Weather Changed" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E01 - First the Weather Changed
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - Prepare to Brace" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E02 - Prepare to Brace
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="3" tvg-name="S01E03 - Access Is Power" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E03 - Access Is Power
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="4" tvg-name="S01E04 - Without Their Maker" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E04 - Without Their Maker
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="5" tvg-name="S01E05 - Justice Never Boarded" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E05 - Justice Never Boarded
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="6" tvg-name="S01E06 - Trouble Comes Sideways" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E06 - Trouble Comes Sideways
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="7" tvg-name="S01E07 - The Universe Is Indifferent" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E07 - The Universe Is Indifferent
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="8" tvg-name="S01E08 - These Are His Revolutions" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E08 - These Are His Revolutions
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="9" tvg-name="S01E09 - The Train Demanded Blood" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E09 - The Train Demanded Blood
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="10" tvg-name="S01E10 - 994 Cars Long" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E10 - 994 Cars Long
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="11" tvg-name="S02E01 - The Time of Two Engines" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E01 - The Time of Two Engines
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="12" tvg-name="S02E02 - Smolder to Life" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E02 - Smolder to Life
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="13" tvg-name="S02E03 - A Great Odyssey" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E03 - A Great Odyssey
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="14" tvg-name="S02E04 - A Single Trade" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E04 - A Single Trade
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="15" tvg-name="S02E05 - Keep Hope Alive" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E05 - Keep Hope Alive
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="16" tvg-name="S02E06 - Many Miles from Snowpiercer" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E06 - Many Miles from Snowpiercer
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#EXTINF:-1 tvg-id="17" tvg-name="S02E07 - Our Answer for Everything" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E07 - Our Answer for Everything
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 
@@ -7158,247 +7218,247 @@ https://archive.org/download/one-piece_202103/One%20Piece%20Epis%C3%B3dio%20965.
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="S01E01 - Os Sete Pecados Capitais" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E01 - Os Sete Pecados Capitais
+#EXTINF:-1 tvg-id="1" tvg-name="S01E01 - Os Sete Pecados Capitais" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E01 - Os Sete Pecados Capitais
 https://www.animeson.club/nanatsu-no-taizai-the-seven-deadly-sins/25885.mp4
 
-#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - A Espada do Paladino" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E02 - A Espada do Paladino
+#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - A Espada do Paladino" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E02 - A Espada do Paladino
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/02.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-name="S01E03 - O Pecado da Floresta Adormecida" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E03 - O Pecado da Floresta Adormecida
+#EXTINF:-1 tvg-id="3" tvg-name="S01E03 - O Pecado da Floresta Adormecida" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E03 - O Pecado da Floresta Adormecida
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/03.mp4
 
-#EXTINF:-1 tvg-id="4" tvg-name="S01E04 - O Sonho de uma Jovem Garota" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E04 - O Sonho de uma Jovem Garota
+#EXTINF:-1 tvg-id="4" tvg-name="S01E04 - O Sonho de uma Jovem Garota" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E04 - O Sonho de uma Jovem Garota
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/04.mp4
 
-#EXTINF:-1 tvg-id="5" tvg-name="S01E05 - Acha Mesmo que Você iria Morrer?" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E05 - Acha Mesmo que Você iria Morrer?
+#EXTINF:-1 tvg-id="5" tvg-name="S01E05 - Acha Mesmo que Você iria Morrer?" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E05 - Acha Mesmo que Você iria Morrer?
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/05.mp4
 
-#EXTINF:-1 tvg-id="6" tvg-name="S01E06 - Início de um Poema" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E06 - Início de um Poema
+#EXTINF:-1 tvg-id="6" tvg-name="S01E06 - Início de um Poema" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E06 - Início de um Poema
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/06.mp4
 
-#EXTINF:-1 tvg-id="7" tvg-name="S01E07 - Reunião Comovente" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E07 - Reunião Comovente
+#EXTINF:-1 tvg-id="7" tvg-name="S01E07 - Reunião Comovente" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E07 - Reunião Comovente
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/07.mp4
 
-#EXTINF:-1 tvg-id="8" tvg-name="S01E08 - O Terrível Perseguidor" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E08 - O Terrível Perseguidor
+#EXTINF:-1 tvg-id="8" tvg-name="S01E08 - O Terrível Perseguidor" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E08 - O Terrível Perseguidor
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/08.mp4
 
-#EXTINF:-1 tvg-id="9" tvg-name="S01E09 - O Pulso Negro" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E09 - O Pulso Negro
+#EXTINF:-1 tvg-id="9" tvg-name="S01E09 - O Pulso Negro" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E09 - O Pulso Negro
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/09.mp4
 
-#EXTINF:-1 tvg-id="10" tvg-name="S01E10 - A Luta de Byzel no Festival" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E10 - A Luta de Byzel no Festival
+#EXTINF:-1 tvg-id="10" tvg-name="S01E10 - A Luta de Byzel no Festival" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E10 - A Luta de Byzel no Festival
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/10.mp4
 
-#EXTINF:-1 tvg-id="11" tvg-name="S01E11 - Um Sentimento de Longa Data" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E11 - Um Sentimento de Longa Data
+#EXTINF:-1 tvg-id="11" tvg-name="S01E11 - Um Sentimento de Longa Data" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E11 - Um Sentimento de Longa Data
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/11.mp4
 
-#EXTINF:-1 tvg-id="12" tvg-name="S01E12 - O Canhão Aterrorizante" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E12 - O Canhão Aterrorizante
+#EXTINF:-1 tvg-id="12" tvg-name="S01E12 - O Canhão Aterrorizante" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E12 - O Canhão Aterrorizante
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/12.mp4
 
-#EXTINF:-1 tvg-id="13" tvg-name="S01E13 - Apóstolo da Destruição" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E13 - Apóstolo da Destruição
+#EXTINF:-1 tvg-id="13" tvg-name="S01E13 - Apóstolo da Destruição" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E13 - Apóstolo da Destruição
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/13.mp4
 
-#EXTINF:-1 tvg-id="14" tvg-name="S01E14 - O Leitor" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E14 - O Leitor
+#EXTINF:-1 tvg-id="14" tvg-name="S01E14 - O Leitor" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E14 - O Leitor
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/14.mp4
 
-#EXTINF:-1 tvg-id="15" tvg-name="S01E15 - O Cavaleiro Profano" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E15 - O Cavaleiro Profano
+#EXTINF:-1 tvg-id="15" tvg-name="S01E15 - O Cavaleiro Profano" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E15 - O Cavaleiro Profano
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/15.mp4
 
-#EXTINF:-1 tvg-id="16" tvg-name="S01E16 - As Lendas Encurraladas" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E16 - As Lendas Encurraladas
+#EXTINF:-1 tvg-id="16" tvg-name="S01E16 - As Lendas Encurraladas" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E16 - As Lendas Encurraladas
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/16.mp4
 
-#EXTINF:-1 tvg-id="17" tvg-name="S01E17 - Primeira Vítima" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E17 - Primeira Vítima
+#EXTINF:-1 tvg-id="17" tvg-name="S01E17 - Primeira Vítima" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E17 - Primeira Vítima
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/17.mp4
 
-#EXTINF:-1 tvg-id="18" tvg-name="S01E18 - Mesmo que eu Tenha que Desistir da Minha Vida por Isso" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E18 - Mesmo que eu Tenha que Desistir da Minha Vida por Isso
+#EXTINF:-1 tvg-id="18" tvg-name="S01E18 - Mesmo que eu Tenha que Desistir da Minha Vida por Isso" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E18 - Mesmo que eu Tenha que Desistir da Minha Vida por Isso
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/18.mp4
 
-#EXTINF:-1 tvg-id="19" tvg-name="S01E19 - O Rei Fada que Esperou em Vão" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E19 - O Rei Fada que Esperou em Vão
+#EXTINF:-1 tvg-id="19" tvg-name="S01E19 - O Rei Fada que Esperou em Vão" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E19 - O Rei Fada que Esperou em Vão
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/19.mp4
 
-#EXTINF:-1 tvg-id="20" tvg-name="S01E20 - A Maldição da Coragem" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E20 - A Maldição da Coragem
+#EXTINF:-1 tvg-id="20" tvg-name="S01E20 - A Maldição da Coragem" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E20 - A Maldição da Coragem
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/20.mp4
 
-#EXTINF:-1 tvg-id="21" tvg-name="S01E21 - Uma Ameaça Iminente Se Aproxima" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E21 - Uma Ameaça Iminente Se Aproxima
+#EXTINF:-1 tvg-id="21" tvg-name="S01E21 - Uma Ameaça Iminente Se Aproxima" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E21 - Uma Ameaça Iminente Se Aproxima
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/21.mp4
 
-#EXTINF:-1 tvg-id="22" tvg-name="S01E22 - O Que Posso Fazer por Você" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E22 - O Que Posso Fazer por Você
+#EXTINF:-1 tvg-id="22" tvg-name="S01E22 - O Que Posso Fazer por Você" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E22 - O Que Posso Fazer por Você
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/22.mp4
 
-#EXTINF:-1 tvg-id="23" tvg-name="S01E23 - O Advento do Desespero" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E23 - O Advento do Desespero
+#EXTINF:-1 tvg-id="23" tvg-name="S01E23 - O Advento do Desespero" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E23 - O Advento do Desespero
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/23.mp4
 
-#EXTINF:-1 tvg-id="24" tvg-name="S01E24 - Os Heróis" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S01E24 - Os Heróis
+#EXTINF:-1 tvg-id="24" tvg-name="S01E24 - Os Heróis" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S01E24 - Os Heróis
 https://videos.animesgratisbr.com/pubfolder/animes/NanatsuNoTaizai/24.mp4
 
-#EXTINF:-1 tvg-id="25" tvg-name="S02E01 - A Ressurreição dos Dez Mandamentos" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E01 - A Ressurreição dos Dez Mandamentos
+#EXTINF:-1 tvg-id="25" tvg-name="S02E01 - A Ressurreição dos Dez Mandamentos" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E01 - A Ressurreição dos Dez Mandamentos
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/1.mp4
 
-#EXTINF:-1 tvg-id="26" tvg-name="S02E02 - Existência e Prova" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E02 - Existência e Prova
+#EXTINF:-1 tvg-id="26" tvg-name="S02E02 - Existência e Prova" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E02 - Existência e Prova
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/2.mp4
 
-#EXTINF:-1 tvg-id="27" tvg-name="S02E03 - O Tesouro Sagrado Lostvayne" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E03 - O Tesouro Sagrado Lostvayne
+#EXTINF:-1 tvg-id="27" tvg-name="S02E03 - O Tesouro Sagrado Lostvayne" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E03 - O Tesouro Sagrado Lostvayne
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/3.mp4
 
-#EXTINF:-1 tvg-id="28" tvg-name="S02E04 - Os Dez Mandamentos se Movem" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E04 - Os Dez Mandamentos se Movem
+#EXTINF:-1 tvg-id="28" tvg-name="S02E04 - Os Dez Mandamentos se Movem" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E04 - Os Dez Mandamentos se Movem
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/4.mp4
 
-#EXTINF:-1 tvg-id="29" tvg-name="S02E05 - Violência Esmagadora" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E05 - Violência Esmagadora
+#EXTINF:-1 tvg-id="29" tvg-name="S02E05 - Violência Esmagadora" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E05 - Violência Esmagadora
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/5.mp4
 
-#EXTINF:-1 tvg-id="30" tvg-name="S02E06 - O Grande Cavaleiros Sagrado se Redime de seus Pecados" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E06 - O Grande Cavaleiros Sagrado se Redime de seus Pecados
+#EXTINF:-1 tvg-id="30" tvg-name="S02E06 - O Grande Cavaleiros Sagrado se Redime de seus Pecados" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E06 - O Grande Cavaleiros Sagrado se Redime de seus Pecados
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/6.mp4
 
-#EXTINF:-1 tvg-id="31" tvg-name="S02E07 - Aonde as Memórias te Levam" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E07 - Aonde as Memórias te Levam
+#EXTINF:-1 tvg-id="31" tvg-name="S02E07 - Aonde as Memórias te Levam" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E07 - Aonde as Memórias te Levam
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/7.mp4
 
-#EXTINF:-1 tvg-id="32" tvg-name="S02E08 - Os Druidas da Terra Sagrada" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E08 - Os Druidas da Terra Sagrada
+#EXTINF:-1 tvg-id="32" tvg-name="S02E08 - Os Druidas da Terra Sagrada" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E08 - Os Druidas da Terra Sagrada
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/8.mp4
 
-#EXTINF:-1 tvg-id="33" tvg-name="S02E09 - A Promessa com um Ente Querido" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E09 - A Promessa com um Ente Querido
+#EXTINF:-1 tvg-id="33" tvg-name="S02E09 - A Promessa com um Ente Querido" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E09 - A Promessa com um Ente Querido
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/9.mp4
 
-#EXTINF:-1 tvg-id="34" tvg-name="S02E10 - O Que nos Faltou" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E10 - O Que nos Faltou
+#EXTINF:-1 tvg-id="34" tvg-name="S02E10 - O Que nos Faltou" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E10 - O Que nos Faltou
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/10.mp4
 
-#EXTINF:-1 tvg-id="35" tvg-name="S02E11 - Pai e Filho" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E11 - Pai e Filho
+#EXTINF:-1 tvg-id="35" tvg-name="S02E11 - Pai e Filho" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E11 - Pai e Filho
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/11.mp4
 
-#EXTINF:-1 tvg-id="36" tvg-name="S02E12 - Onde o Amor é Escontrado" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E12 - Onde o Amor é Escontrado
+#EXTINF:-1 tvg-id="36" tvg-name="S02E12 - Onde o Amor é Escontrado" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E12 - Onde o Amor é Escontrado
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/12.mp4
 
-#EXTINF:-1 tvg-id="37" tvg-name="S02E13 - Adeus Meu Amado Ladrão" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E13 - Adeus Meu Amado Ladrão
+#EXTINF:-1 tvg-id="37" tvg-name="S02E13 - Adeus Meu Amado Ladrão" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E13 - Adeus Meu Amado Ladrão
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/13.mp4
 
-#EXTINF:-1 tvg-id="38" tvg-name="S02E14 - O Mestre do Sol" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E14 - O Mestre do Sol
+#EXTINF:-1 tvg-id="38" tvg-name="S02E14 - O Mestre do Sol" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E14 - O Mestre do Sol
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/14.mp4
 
-#EXTINF:-1 tvg-id="39" tvg-name="S02E15 - Uma Confissão Sangrenta" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E15 - Uma Confissão Sangrenta
+#EXTINF:-1 tvg-id="39" tvg-name="S02E15 - Uma Confissão Sangrenta" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E15 - Uma Confissão Sangrenta
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/15.mp4
 
-#EXTINF:-1 tvg-id="40" tvg-name="S02E16 - Labirinto de Armadilha Mortal" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E16 - Labirinto de Armadilha Mortal
+#EXTINF:-1 tvg-id="40" tvg-name="S02E16 - Labirinto de Armadilha Mortal" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E16 - Labirinto de Armadilha Mortal
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/16.mp4
 
-#EXTINF:-1 tvg-id="41" tvg-name="S02E17 - Figuras Lendárias" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E17 - Figuras Lendárias
+#EXTINF:-1 tvg-id="41" tvg-name="S02E17 - Figuras Lendárias" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E17 - Figuras Lendárias
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/17.mp4
 
-#EXTINF:-1 tvg-id="42" tvg-name="S02E18 - Para Quem Essa Luz Brilha?" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E18 - Para Quem Essa Luz Brilha?
+#EXTINF:-1 tvg-id="42" tvg-name="S02E18 - Para Quem Essa Luz Brilha?" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E18 - Para Quem Essa Luz Brilha?
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/18.mp4
 
-#EXTINF:-1 tvg-id="43" tvg-name="S02E19 - Meliodas vs Dez Mandamentos" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E19 - Meliodas vs Dez Mandamentos
+#EXTINF:-1 tvg-id="43" tvg-name="S02E19 - Meliodas vs Dez Mandamentos" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E19 - Meliodas vs Dez Mandamentos
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/19.mp4
 
-#EXTINF:-1 tvg-id="44" tvg-name="S02E20 - Perseguição da Esperança" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E20 - Perseguição da Esperança
+#EXTINF:-1 tvg-id="44" tvg-name="S02E20 - Perseguição da Esperança" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E20 - Perseguição da Esperança
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/20.mp4
 
-#EXTINF:-1 tvg-id="45" tvg-name="S02E21 - Um Certo Calor" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E21 - Um Certo Calor
+#EXTINF:-1 tvg-id="45" tvg-name="S02E21 - Um Certo Calor" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E21 - Um Certo Calor
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/21.mp4
 
-#EXTINF:-1 tvg-id="46" tvg-name="S02E22 - O Retorno do Pecado" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E22 - O Retorno do Pecado
+#EXTINF:-1 tvg-id="46" tvg-name="S02E22 - O Retorno do Pecado" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E22 - O Retorno do Pecado
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/22.mp4
 
-#EXTINF:-1 tvg-id="47" tvg-name="S02E23 - O Herói Ascende" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E23 - O Herói Ascende
+#EXTINF:-1 tvg-id="47" tvg-name="S02E23 - O Herói Ascende" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E23 - O Herói Ascende
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/23.mp4
 
-#EXTINF:-1 tvg-id="48" tvg-name="S02E24 - Enquanto Você Estiver Aqui!" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S02E24 - Enquanto Você Estiver Aqui!
+#EXTINF:-1 tvg-id="48" tvg-name="S02E24 - Enquanto Você Estiver Aqui!" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S02E24 - Enquanto Você Estiver Aqui!
 https://videos.animesgratisbr.com/pubfolder/animes/nanatsunotaizai2/24.mp4
 
-#EXTINF:-1 tvg-id="49" tvg-name="S03E01 - A Luz Que Expulsa a Escuridão" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E01 - A Luz Que Expulsa a Escuridão
+#EXTINF:-1 tvg-id="49" tvg-name="S03E01 - A Luz Que Expulsa a Escuridão" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E01 - A Luz Que Expulsa a Escuridão
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E01.mp4
 
-#EXTINF:-1 tvg-id="50" tvg-name="S03E02 - Memórias de Guerra Santa" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E02 - Memórias de Guerra Santa
+#EXTINF:-1 tvg-id="50" tvg-name="S03E02 - Memórias de Guerra Santa" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E02 - Memórias de Guerra Santa
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E02.mp4
 
-#EXTINF:-1 tvg-id="51" tvg-name="S03E03 - Que Haja Luz" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E03 - Que Haja Luz
+#EXTINF:-1 tvg-id="51" tvg-name="S03E03 - Que Haja Luz" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E03 - Que Haja Luz
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E03.mp4
 
-#EXTINF:-1 tvg-id="52" tvg-name="S03E04 - Os Dez Mandamentos Vs. Os Quatro Arcanjos" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E04 - Os Dez Mandamentos Vs. Os Quatro Arcanjos
+#EXTINF:-1 tvg-id="52" tvg-name="S03E04 - Os Dez Mandamentos Vs. Os Quatro Arcanjos" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E04 - Os Dez Mandamentos Vs. Os Quatro Arcanjos
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E04.mp4
 
-#EXTINF:-1 tvg-id="53" tvg-name="S03E05 - Tempestade Emocional" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E05 - Tempestade Emocional
+#EXTINF:-1 tvg-id="53" tvg-name="S03E05 - Tempestade Emocional" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E05 - Tempestade Emocional
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E05.mp4
 
-#EXTINF:-1 tvg-id="54" tvg-name="S03E06 - Chamamos Isso de Amor" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E06 - Chamamos Isso de Amor
+#EXTINF:-1 tvg-id="54" tvg-name="S03E06 - Chamamos Isso de Amor" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E06 - Chamamos Isso de Amor
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E06.mp4
 
-#EXTINF:-1 tvg-id="55" tvg-name="S03E07 - Pecados Capitais Unam-Se!!" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E07 - Pecados Capitais Unam-Se!!
+#EXTINF:-1 tvg-id="55" tvg-name="S03E07 - Pecados Capitais Unam-Se!!" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E07 - Pecados Capitais Unam-Se!!
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E07.mp4
 
-#EXTINF:-1 tvg-id="56" tvg-name="S03E08 - O Boneco Procura o Amor" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E08 - O Boneco Procura o Amor
+#EXTINF:-1 tvg-id="56" tvg-name="S03E08 - O Boneco Procura o Amor" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E08 - O Boneco Procura o Amor
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E08.mp4
 
-#EXTINF:-1 tvg-id="57" tvg-name="S03E09 - Os Amantes Amaldiçoados" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E09 - Os Amantes Amaldiçoados
+#EXTINF:-1 tvg-id="57" tvg-name="S03E09 - Os Amantes Amaldiçoados" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E09 - Os Amantes Amaldiçoados
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E09.mp4
 
-#EXTINF:-1 tvg-id="58" tvg-name="S03E10 - Esse é o Nosso Jeito de Viver" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E10 - Esse é o Nosso Jeito de Viver
+#EXTINF:-1 tvg-id="58" tvg-name="S03E10 - Esse é o Nosso Jeito de Viver" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E10 - Esse é o Nosso Jeito de Viver
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E10.mp4
 
-#EXTINF:-1 tvg-id="59" tvg-name="S03E11 - Aquele Que Odeia Não Descansa" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E11 - Aquele Que Odeia Não Descansa
+#EXTINF:-1 tvg-id="59" tvg-name="S03E11 - Aquele Que Odeia Não Descansa" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E11 - Aquele Que Odeia Não Descansa
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E11.mp4
 
-#EXTINF:-1 tvg-id="60" tvg-name="S03E12 - O Amor é o poder de uma donzela" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E12 - O Amor é o poder de uma donzela
+#EXTINF:-1 tvg-id="60" tvg-name="S03E12 - O Amor é o poder de uma donzela" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E12 - O Amor é o poder de uma donzela
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E12.mp4
 
-#EXTINF:-1 tvg-id="61" tvg-name="S03E13 - O Todo Poderoso vs. O Maior Mal" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E13 - O Todo Poderoso vs. O Maior Mal
+#EXTINF:-1 tvg-id="61" tvg-name="S03E13 - O Todo Poderoso vs. O Maior Mal" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E13 - O Todo Poderoso vs. O Maior Mal
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E13.mp4
 
-#EXTINF:-1 tvg-id="62" tvg-name="S03E14 - Uma Nova Ameaça" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E14 - Uma Nova Ameaça
+#EXTINF:-1 tvg-id="62" tvg-name="S03E14 - Uma Nova Ameaça" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E14 - Uma Nova Ameaça
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E14.mp4
 
-#EXTINF:-1 tvg-id="63" tvg-name="S03E15 - Para o Nosso Capitão!" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E15 - Para o Nosso Capitão!
+#EXTINF:-1 tvg-id="63" tvg-name="S03E15 - Para o Nosso Capitão!" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E15 - Para o Nosso Capitão!
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E15.mp4
 
-#EXTINF:-1 tvg-id="64" tvg-name="S03E16 - O Fim dos Sete Pecados Capitais" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E16 - O Fim dos Sete Pecados Capitais
+#EXTINF:-1 tvg-id="64" tvg-name="S03E16 - O Fim dos Sete Pecados Capitais" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E16 - O Fim dos Sete Pecados Capitais
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E16.mp4
 
-#EXTINF:-1 tvg-id="65" tvg-name="S03E17 - Nossas escolhas" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E17 - Nossas escolhas
+#EXTINF:-1 tvg-id="65" tvg-name="S03E17 - Nossas escolhas" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E17 - Nossas escolhas
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E17.mp4
 
-#EXTINF:-1 tvg-id="66" tvg-name="S03E18 - Marcha dos Santos" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E18 - Marcha dos Santos
+#EXTINF:-1 tvg-id="66" tvg-name="S03E18 - Marcha dos Santos" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E18 - Marcha dos Santos
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E18.mp4
 
-#EXTINF:-1 tvg-id="67" tvg-name="S03E19 - O Pacto da Guerra Santa" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E19 - O Pacto da Guerra Santa
+#EXTINF:-1 tvg-id="67" tvg-name="S03E19 - O Pacto da Guerra Santa" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E19 - O Pacto da Guerra Santa
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E19.mp4
 
-#EXTINF:-1 tvg-id="68" tvg-name="S03E20 - O Filho da Esperança" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E20 - O Filho da Esperança
+#EXTINF:-1 tvg-id="68" tvg-name="S03E20 - O Filho da Esperança" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E20 - O Filho da Esperança
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E20.mp4
 
-#EXTINF:-1 tvg-id="69" tvg-name="S03E21 - O Início da Guerra Santa" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E21 - O Início da Guerra Santa
+#EXTINF:-1 tvg-id="69" tvg-name="S03E21 - O Início da Guerra Santa" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E21 - O Início da Guerra Santa
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E21.mp4
 
-#EXTINF:-1 tvg-id="70" tvg-name="S03E22 - Britânia Devastada Pela Guerra" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E22 - Britânia Devastada Pela Guerra
+#EXTINF:-1 tvg-id="70" tvg-name="S03E22 - Britânia Devastada Pela Guerra" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E22 - Britânia Devastada Pela Guerra
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E22.mp4
 
-#EXTINF:-1 tvg-id="71" tvg-name="S03E23 - A Incorporação da Escuridão" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E23 - A Incorporação da Escuridão
+#EXTINF:-1 tvg-id="71" tvg-name="S03E23 - A Incorporação da Escuridão" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E23 - A Incorporação da Escuridão
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E23.mp4
 
-#EXTINF:-1 tvg-id="72" tvg-name="S03E24 - Amor Furioso" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S03E24 - Amor Furioso
+#EXTINF:-1 tvg-id="72" tvg-name="S03E24 - Amor Furioso" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S03E24 - Amor Furioso
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S03E24.mp4
 
-#EXTINF:-1 tvg-id="73" tvg-name="S04E01 - Purgatório" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E01 - Purgatório
+#EXTINF:-1 tvg-id="73" tvg-name="S04E01 - Purgatório" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E01 - Purgatório
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E01.mp4
 
-#EXTINF:-1 tvg-id="74" tvg-name="S04E02 - Um Encontro Com o Desconhecido" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E02 - Um Encontro Com o Desconhecido
+#EXTINF:-1 tvg-id="74" tvg-name="S04E02 - Um Encontro Com o Desconhecido" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E02 - Um Encontro Com o Desconhecido
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E02.mp4
 
-#EXTINF:-1 tvg-id="75" tvg-name="S04E03 - Sentimentos Sinceros" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E03 - Sentimentos Sinceros
+#EXTINF:-1 tvg-id="75" tvg-name="S04E03 - Sentimentos Sinceros" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E03 - Sentimentos Sinceros
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E03.mp4
 
-#EXTINF:-1 tvg-id="76" tvg-name="S04E04 - Vítimas da Guerra Santa" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E04 - Vítimas da Guerra Santa
+#EXTINF:-1 tvg-id="76" tvg-name="S04E04 - Vítimas da Guerra Santa" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E04 - Vítimas da Guerra Santa
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E04.mp4
 
-#EXTINF:-1 tvg-id="77" tvg-name="S04E05 - Golpe Triste" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E05 - Golpe Triste
+#EXTINF:-1 tvg-id="77" tvg-name="S04E05 - Golpe Triste" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E05 - Golpe Triste
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E05.mp4
 
-#EXTINF:-1 tvg-id="78" tvg-name="S04E06 - Se Levante Contra o Desespero" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E06 - Se Levante Contra o Desespero
+#EXTINF:-1 tvg-id="78" tvg-name="S04E06 - Se Levante Contra o Desespero" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E06 - Se Levante Contra o Desespero
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E06.mp4
 
-#EXTINF:-1 tvg-id="79" tvg-name="S04E07 - Esperança Conflito e Desespero" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E07 - Esperança Conflito e Desespero
+#EXTINF:-1 tvg-id="79" tvg-name="S04E07 - Esperança Conflito e Desespero" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E07 - Esperança Conflito e Desespero
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E07.mp4
 
-#EXTINF:-1 tvg-id="80" tvg-name="S04E08 - A Porta da Esperança" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E08 - A Porta da Esperança
+#EXTINF:-1 tvg-id="80" tvg-name="S04E08 - A Porta da Esperança" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E08 - A Porta da Esperança
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E08.mp4
 
-#EXTINF:-1 tvg-id="81" tvg-name="S04E09 - Aquele que Reúne" tvg-logo="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/9/9b/Anime_Confirmation_Logo.png/revision/latest/scale-to-width-down/500?cb=20140727124418" group-title="Nanatsu No Taizai",S04E09 - Aquele que Reúne
+#EXTINF:-1 tvg-id="81" tvg-name="S04E09 - Aquele que Reúne" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E09 - Aquele que Reúne
 https://archive.org/download/nanatsu-no-taizai_202103/Nanatsu_No_Taizai_S04E09.mp4
 
 
