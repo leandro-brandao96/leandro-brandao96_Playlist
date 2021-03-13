@@ -15,8 +15,14 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
+#EXTINF:-1 group-title="FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
+https://ptiptv.tk/tvi24.m3u8?C0nNVJabbhv2u1BU83fjoF4_idA
+
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
+
+#EXTINF:-1 group-title="FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
+https://ptiptv.tk/tvi-direct.m3u8?C0nNVJabbhv2u1BU83fjoF4_idA
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="FR24I" tvg-logo="https://www.meo.pt/PublishingImages/canais/france-24-i.png",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
@@ -1289,56 +1295,56 @@ https://archive.org/download/twd-s10/TWD_S10E18.mp4
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="S01E01 - First the Weather Changed" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E01 - First the Weather Changed
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="1" tvg-name="S01E01 - First the Weather Changed" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E01.srt",S01E01 - First the Weather Changed
+https://archive.org/download/snp-s01/Snp_S01E01.mp4
 
-#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - Prepare to Brace" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E02 - Prepare to Brace
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - Prepare to Brace" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E02.srt",S01E02 - Prepare to Brace
+https://archive.org/download/snp-s01/Snp_S01E02.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-name="S01E03 - Access Is Power" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E03 - Access Is Power
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="3" tvg-name="S01E03 - Access Is Power" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E03.srt",S01E03 - Access Is Power
+https://archive.org/download/snp-s01/Snp_S01E03.mp4
 
-#EXTINF:-1 tvg-id="4" tvg-name="S01E04 - Without Their Maker" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E04 - Without Their Maker
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="4" tvg-name="S01E04 - Without Their Maker" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E04.srt",S01E04 - Without Their Maker
+https://archive.org/download/snp-s01/Snp_S01E04.mp4
 
-#EXTINF:-1 tvg-id="5" tvg-name="S01E05 - Justice Never Boarded" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E05 - Justice Never Boarded
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="5" tvg-name="S01E05 - Justice Never Boarded" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E05.srt",S01E05 - Justice Never Boarded
+https://archive.org/download/snp-s01/Snp_S01E05.mp4
 
-#EXTINF:-1 tvg-id="6" tvg-name="S01E06 - Trouble Comes Sideways" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E06 - Trouble Comes Sideways
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="6" tvg-name="S01E06 - Trouble Comes Sideways" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E06.srt",S01E06 - Trouble Comes Sideways
+https://archive.org/download/snp-s01/Snp_S01E06.mp4
 
-#EXTINF:-1 tvg-id="7" tvg-name="S01E07 - The Universe Is Indifferent" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E07 - The Universe Is Indifferent
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="7" tvg-name="S01E07 - The Universe Is Indifferent" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E07.srt",S01E07 - The Universe Is Indifferent
+https://archive.org/download/snp-s01/Snp_S01E07.mp4
 
-#EXTINF:-1 tvg-id="8" tvg-name="S01E08 - These Are His Revolutions" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E08 - These Are His Revolutions
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="8" tvg-name="S01E08 - These Are His Revolutions" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E08.srt",S01E08 - These Are His Revolutions
+https://archive.org/download/snp-s01/Snp_S01E08.mp4
 
-#EXTINF:-1 tvg-id="9" tvg-name="S01E09 - The Train Demanded Blood" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E09 - The Train Demanded Blood
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="9" tvg-name="S01E09 - The Train Demanded Blood" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E09.srt",S01E09 - The Train Demanded Blood
+https://archive.org/download/snp-s01/Snp_S01E09.mp4
 
-#EXTINF:-1 tvg-id="10" tvg-name="S01E10 - 994 Cars Long" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S01E10 - 994 Cars Long
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="10" tvg-name="S01E10 - 994 Cars Long" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s01/Snp_S01E10.srt",S01E10 - 994 Cars Long
+https://archive.org/download/snp-s01/Snp_S01E10.mp4
 
-#EXTINF:-1 tvg-id="11" tvg-name="S02E01 - The Time of Two Engines" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E01 - The Time of Two Engines
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="11" tvg-name="S02E01 - The Time of Two Engines" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s02/Snp_S02E01.srt",S02E01 - The Time of Two Engines
+https://archive.org/download/snp-s02/Snp_S02E01.mp4
 
-#EXTINF:-1 tvg-id="12" tvg-name="S02E02 - Smolder to Life" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E02 - Smolder to Life
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="12" tvg-name="S02E02 - Smolder to Life" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s02/Snp_S02E02.srt",S02E02 - Smolder to Life
+https://archive.org/download/snp-s02/Snp_S02E02.mp4
 
-#EXTINF:-1 tvg-id="13" tvg-name="S02E03 - A Great Odyssey" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E03 - A Great Odyssey
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="13" tvg-name="S02E03 - A Great Odyssey" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s02/Snp_S02E03.srt",S02E03 - A Great Odyssey
+https://archive.org/download/snp-s02/Snp_S02E03.mp4
 
-#EXTINF:-1 tvg-id="14" tvg-name="S02E04 - A Single Trade" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E04 - A Single Trade
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="14" tvg-name="S02E04 - A Single Trade" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s02/Snp_S02E04.srt",S02E04 - A Single Trade
+https://archive.org/download/snp-s02/Snp_S02E04.mp4
 
-#EXTINF:-1 tvg-id="15" tvg-name="S02E05 - Keep Hope Alive" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E05 - Keep Hope Alive
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="15" tvg-name="S02E05 - Keep Hope Alive" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s02/Snp_S02E05.srt",S02E05 - Keep Hope Alive
+https://archive.org/download/snp-s02/Snp_S02E05.mp4
 
-#EXTINF:-1 tvg-id="16" tvg-name="S02E06 - Many Miles from Snowpiercer" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E06 - Many Miles from Snowpiercer
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="16" tvg-name="S02E06 - Many Miles from Snowpiercer" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s02/Snp_S02E06.srt",S02E06 - Many Miles from Snowpiercer
+https://archive.org/download/snp-s02/Snp_S02E06.mp4
 
-#EXTINF:-1 tvg-id="17" tvg-name="S02E07 - Our Answer for Everything" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",S02E07 - Our Answer for Everything
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#EXTINF:-1 tvg-id="17" tvg-name="S02E07 - Our Answer for Everything" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/SnowPiercercapa.png/250px-SnowPiercercapa.png" group-title="Snowpiercer" subtitles="https://archive.org/download/snp-s02/Snp_S02E07.srt",S02E07 - Our Answer for Everything
+https://archive.org/download/snp-s02/Snp_S02E07.mp4
 
 
 
