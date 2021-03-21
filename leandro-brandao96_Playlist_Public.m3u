@@ -33,6 +33,15 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 
 
+##   Filmes Ação   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="Zack Snyders Justice League" tvg-logo="http://mrpiracy.top/images/capas/tt1236197422.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Zack%20Snyder's%20Justice%20League.srt",Zack Snyders Justice League
+https://archive.org/download/dabc27d59babe6ed0209b766e23e2b36/dabc27d59babe6ed0209b766e23e2b36.mp4
+
+
+
 ##   Filmes Animação   ##
 
 
@@ -49,6 +58,9 @@ https://archive.org/download/0217f-7521a-2d-70ca-84719db-45e-4ecc-1e/0217f7521a2
 #EXTINF:-1 tvg-id="1" tvg-name="Tom & Jerry 2021" tvg-logo="http://mrpiracy.top/images/capas/tt1361336.jpg" group-title="Filmes Aventura" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Tom%20%26%20Jerry%202021.srt",Tom & Jerry 2021
 https://archive.org/download/0217f-7521a-2d-70ca-84719db-45e-4ecc-1e/0217f7521a2d70ca84719db45e4ecc1e.mp4
 
+#EXTINF:-1 tvg-id="2" tvg-name="Zack Snyders Justice League" tvg-logo="http://mrpiracy.top/images/capas/tt1236197422.jpg" group-title="Filmes Aventura" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Zack%20Snyder's%20Justice%20League.srt",Zack Snyders Justice League
+https://archive.org/download/dabc27d59babe6ed0209b766e23e2b36/dabc27d59babe6ed0209b766e23e2b36.mp4
+
 
 
 ##   Filmes Comédia   ##
@@ -57,6 +69,27 @@ https://archive.org/download/0217f-7521a-2d-70ca-84719db-45e-4ecc-1e/0217f7521a2
 
 #EXTINF:-1 tvg-id="1" tvg-name="Tom & Jerry 2021" tvg-logo="http://mrpiracy.top/images/capas/tt1361336.jpg" group-title="Filmes Comédia" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Tom%20%26%20Jerry%202021.srt",Tom & Jerry 2021
 https://archive.org/download/0217f-7521a-2d-70ca-84719db-45e-4ecc-1e/0217f7521a2d70ca84719db45e4ecc1e.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-name="Yes Day 2021" tvg-logo="http://mrpiracy.top/images/capas/tt8521876.jpg" group-title="Filmes Comédia" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Yes%20Day%202021.srt",Yes Day 2021
+https://archive.org/download/c134544f45efd63518e7a32be41c297e/c134544f45efd63518e7a32be41c297e.mp4
+
+
+
+##   Filmes Família   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="Yes Day 2021" tvg-logo="http://mrpiracy.top/images/capas/tt8521876.jpg" group-title="Filmes Família" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Yes%20Day%202021.srt",Yes Day 2021
+https://archive.org/download/c134544f45efd63518e7a32be41c297e/c134544f45efd63518e7a32be41c297e.mp4
+
+
+
+##   Filmes Fantasia   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="Zack Snyders Justice League" tvg-logo="http://mrpiracy.top/images/capas/tt1236197422.jpg" group-title="Filmes Fantasia" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Zack%20Snyder's%20Justice%20League.srt",Zack Snyders Justice League
+https://archive.org/download/dabc27d59babe6ed0209b766e23e2b36/dabc27d59babe6ed0209b766e23e2b36.mp4
 
 
 
