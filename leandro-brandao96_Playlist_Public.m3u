@@ -10,19 +10,19 @@
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIxIDI6MDoxIEFNJmhhc2hfdmFsdWU9alo5NFlaNWx0VSswRmF5blhPRm1SUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEyMGM1ZmE2LTYwMDItNGRhYy05ZTNkLTYxNDY2ZGYyYzUxNQ==
+https://ptiptv.tk/tvi.m3u8?GUnNVJabbhv2u1BUj96yCL-x-zk
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
-https://ptiptv.tk/tvi24.m3u8?C0nNVJabbhv2u1BU83fjoF4_idA
+https://ptiptv.tk/tvi24.m3u8?GUnNVJabbhv2u1BUj96yCL-x-zk
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
-https://ptiptv.tk/tvi-direct.m3u8?C0nNVJabbhv2u1BU83fjoF4_idA
+https://ptiptv.tk/tvi-direct.m3u8?GUnNVJabbhv2u1BUj96yCL-x-zk
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="FR24I" tvg-logo="https://www.meo.pt/PublishingImages/canais/france-24-i.png",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
