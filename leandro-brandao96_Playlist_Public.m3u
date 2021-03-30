@@ -122,7 +122,7 @@ https://archive.org/download/dabc27d59babe6ed0209b766e23e2b36/dabc27d59babe6ed02
 #EXTINF:-1 tvg-id="1" tvg-name="S01E01 - The Bone Orchard" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4d/American-Gods.jpg/250px-American-Gods.jpg" group-title="American Gods" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/American%20Gods%20S01E01.srt",S01E01 - The Bone Orchard
 https://archive.org/download/acan-gds/AcanGdsS01E012017.mp4
 
-#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - The Secret of Spoons" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4d/American-Gods.jpg/250px-American-Gods.jpg" group-title="American Gods" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/blob/e92a0b24d13c5aec53f5f1393efa1ca0c9d9df7b/American%20Gods%20S01E02.srt",S01E02 - The Secret of Spoons
+#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - The Secret of Spoons" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4d/American-Gods.jpg/250px-American-Gods.jpg" group-title="American Gods" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/American%20Gods%20S01E01.srt",S01E02 - The Secret of Spoons
 https://archive.org/download/acan-gds/AcanGdsS01E022017.mp4
 
 #EXTINF:-1 tvg-id="3" tvg-name="S01E03 - Head Full of Snow" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4d/American-Gods.jpg/250px-American-Gods.jpg" group-title="American Gods" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/American%20Gods%20S01E03.srt",S01E03 - Head Full of Snow
@@ -2399,6 +2399,279 @@ https://archive.org/download/dr.-stone_202103/Dr._Stone_S02E10.mp4
 
 #EXTINF:-1 tvg-id="35" tvg-name="S02E11 - Prólogo do Dr. Stone" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2a/Dr._Stone_Logo.png/640px-Dr._Stone_Logo.png" group-title="Dr. Stone",S02E11 - Prólogo do Dr. Stone
 https://archive.org/download/dr.-stone_202103/Dr._Stone_S02E11.mp4
+
+
+
+##   My Hero Academia   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="Ep.1 - Midoriya Izuku: Origem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.1 - Midoriya Izuku: Origem
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/01_MQ.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-name="Ep.2 - O Necessário Para Ser um Herói" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.2 - O Necessário Para Ser um Herói
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/02_MQ.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-name="Ep.3 - Músculos Gritantes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.3 - Músculos Gritantes
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/03_MQ.mp4
+
+#EXTINF:-1 tvg-id="4" tvg-name="Ep.4 - Ponto de Partida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.4 - Ponto de Partida
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/04_MQ.mp4
+
+#EXTINF:-1 tvg-id="5" tvg-name="Ep.5 - O Que Posso Fazer Por Enquanto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.5 - O Que Posso Fazer Por Enquanto
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/05_MQ.mp4
+
+#EXTINF:-1 tvg-id="6" tvg-name="Ep.6 - Enfureça Nerd Maldito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.6 - Enfureça Nerd Maldito
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/06_MQ.mp4
+
+#EXTINF:-1 tvg-id="7" tvg-name="Ep.7 - Deku vs Kacchan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.7 - Deku vs Kacchan
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/7v3_MQ.mp4
+
+#EXTINF:-1 tvg-id="8" tvg-name="Ep.8 - O Ponto de Partida do Bakugo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.8 - O Ponto de Partida do Bakugo
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/08_MQ.mp4
+
+#EXTINF:-1 tvg-id="9" tvg-name="Ep.9 - Iida-kun Dê o Seu Melhor!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.9 - Iida-kun Dê o Seu Melhor!
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/09_MQ.mp4
+
+#EXTINF:-1 tvg-id="10" tvg-name="Ep.10 - Encontro Com o Desconhecido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.10 - Encontro Com o Desconhecido
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/10_MQ.mp4
+
+#EXTINF:-1 tvg-id="11" tvg-name="Ep.11 - Game Over" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.11 - Game Over
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/11_MQ.mp4
+
+#EXTINF:-1 tvg-id="12" tvg-name="Ep.12 - All Might" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.12 - All Might
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/12_MQ.mp4
+
+#EXTINF:-1 tvg-id="13" tvg-name="Ep.13 - No Coração de Cada Um de Nós" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.13 - No Coração de Cada Um de Nós
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero/13_MQ.mp4
+
+#EXTINF:-1 tvg-id="14" tvg-name="Ep.14 - Essa é a Ideia Ochaco-san" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.14 - Essa é a Ideia Ochaco-san
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/01_MQ.mp4
+
+#EXTINF:-1 tvg-id="15" tvg-name="Ep.15 - O Festival de Esportes Ruge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.15 - O Festival de Esportes Ruge
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/02_MQ.mp4
+
+#EXTINF:-1 tvg-id="16" tvg-name="Ep.16 - De Suas Próprias e Peculiares Maneiras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.16 - De Suas Próprias e Peculiares Maneiras
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/03_MQ.mp4
+
+#EXTINF:-1 tvg-id="17" tvg-name="Ep.17 - Estratégia Estratégia Estratégia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.17 - Estratégia Estratégia Estratégia
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/04_MQ.mp4
+
+#EXTINF:-1 tvg-id="18" tvg-name="Ep.18 - O Final da Batalha de Cavalaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.18 - O Final da Batalha de Cavalaria
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/05_MQ.mp4
+
+#EXTINF:-1 tvg-id="19" tvg-name="Ep.19 - O Garoto Que Nasceu com Tudo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.19 - O Garoto Que Nasceu com Tudo
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/06v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="20" tvg-name="Ep.20 - Vitória ou Derrota" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.20 - Vitória ou Derrota
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/07v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="21" tvg-name="Ep.21 - Lutem Desafiantes!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.21 - Lutem Desafiantes!
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/08_MQ.mp4
+
+#EXTINF:-1 tvg-id="22" tvg-name="Ep.22 - Bakugo vs Uraraka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.22 - Bakugo vs Uraraka
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/9v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="23" tvg-name="Ep.23 - Todoroki Shōto: Origem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.23 - Todoroki Shōto: Origem
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/10_MQ.mp4
+
+#EXTINF:-1 tvg-id="24" tvg-name="Ep.24 - A Luta de Iida-kun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.24 - A Luta de Iida-kun
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/11_MQ.mp4
+
+#EXTINF:-1 tvg-id="25" tvg-name="Ep.25 - Todoroki vs Bakugo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.25 - Todoroki vs Bakugo
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/12_MQ.mp4
+
+#EXTINF:-1 tvg-id="26" tvg-name="Ep.26 - Hora de Escolher Alguns Nomes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.26 - Hora de Escolher Alguns Nomes
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/13_MQ.mp4
+
+#EXTINF:-1 tvg-id="27" tvg-name="Ep.27 - Bizarro! Gran Torino Aparece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.27 - Bizarro! Gran Torino Aparece
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/14v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="28" tvg-name="Ep.28 - Midoriya e Shigaraki" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.28 - Midoriya e Shigaraki
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/15_MQ.mp4
+
+#EXTINF:-1 tvg-id="29" tvg-name="Ep.29 - Assassino de Heróis: Stain vs Alunos da U.A." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.29 - Assassino de Heróis: Stain vs Alunos da U.A.
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/16_MQ.mp4
+
+#EXTINF:-1 tvg-id="30" tvg-name="Ep.30 - Clímax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.30 - Clímax
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/17v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="31" tvg-name="Ep.31 - O Assassino de Heróis Stain: Suas Consequências" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.31 - O Assassino de Heróis Stain: Suas Consequências
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/18v4_MQ.mp4
+
+#EXTINF:-1 tvg-id="32" tvg-name="Ep.32 - Os Estágios da Turma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.32 - Os Estágios da Turma
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/19_MQ.mp4
+
+#EXTINF:-1 tvg-id="33" tvg-name="Ep.33 - Escutem!! Um Conto do Passado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.33 - Escutem!! Um Conto do Passado
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/20_MQ.mp4
+
+#EXTINF:-1 tvg-id="34" tvg-name="Ep.34 - Preparem-se para o Exame Final" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.34 - Preparem-se para o Exame Final
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/21v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="35" tvg-name="Ep.35 - Yaoyorozu: Ascensão" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.35 - Yaoyorozu: Ascensão
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/22v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="36" tvg-name="Ep.36 - Removendo o Verniz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.36 - Removendo o Verniz
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/23_MQ.mp4
+
+#EXTINF:-1 tvg-id="37" tvg-name="Ep.37 - Bakugo Katsuki: Origem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.37 - Bakugo Katsuki: Origem
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/24_MQ.mp4
+
+#EXTINF:-1 tvg-id="38" tvg-name="Ep.38 - Encontro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.38 - Encontro
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero2/25_MQ.mp4
+
+#EXTINF:-1 tvg-id="39" tvg-name="Ep.39 - O Jogo Começa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.39 - O Jogo Começa
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/01_MQ.mp4
+
+#EXTINF:-1 tvg-id="40" tvg-name="Ep.40 - Wild Wild Pussycats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.40 - Wild Wild Pussycats
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/2_MQ.mp4
+
+#EXTINF:-1 tvg-id="41" tvg-name="Ep.41 - Kota-kun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.41 - Kota-kun
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/03_MQ.mp4
+
+#EXTINF:-1 tvg-id="42" tvg-name="Ep.42 - Meu Herói" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.42 - Meu Herói
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/04v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="43" tvg-name="Ep.43 - Mande-o Para Casa!!!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.43 - Mande-o Para Casa!!!
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/05_MQ.mp4
+
+#EXTINF:-1 tvg-id="44" tvg-name="Ep.44 - Revolta Rugindo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.44 - Revolta Rugindo
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/06_MQ.mp4
+
+#EXTINF:-1 tvg-id="45" tvg-name="Ep.45 - Que Reviravolta!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.45 - Que Reviravolta!
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/07_MQ.mp4
+
+#EXTINF:-1 tvg-id="46" tvg-name="Ep.46 - De Iida Para Midoriya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.46 - De Iida Para Midoriya
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/08_MQ.mp4
+
+#EXTINF:-1 tvg-id="47" tvg-name="Ep.47 - All For One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.47 - All For One
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/09_MQ.mp4
+
+#EXTINF:-1 tvg-id="48" tvg-name="Ep.48 - Símbolo da Paz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.48 - Símbolo da Paz
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/10_MQ.mp4
+
+#EXTINF:-1 tvg-id="49" tvg-name="Ep.49 - One For All" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.49 - One For All
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/11v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="50" tvg-name="Ep.50 - Fim do Começo Começo do Fim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.50 - Fim do Começo Começo do Fim
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/12_MQ.mp4
+
+#EXTINF:-1 tvg-id="51" tvg-name="Ep.51 - Entrando nos Dormitórios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.51 - Entrando nos Dormitórios
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/13_MQ.mp4
+
+#EXTINF:-1 tvg-id="52" tvg-name="Ep.52 - Criando Movimentos Supremos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.52 - Criando Movimentos Supremos
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/14_MQ.mp4
+
+#EXTINF:-1 tvg-id="53" tvg-name="Ep.53 - O Teste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.53 - O Teste
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/15_MQ.mp4
+
+#EXTINF:-1 tvg-id="54" tvg-name="Ep.54 - Emboscada da Escola Shiketsu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.54 - Emboscada da Escola Shiketsu
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/16_MQ.mp4
+
+#EXTINF:-1 tvg-id="55" tvg-name="Ep.55 - Classe 1-A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.55 - Classe 1-A
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/17_MQ.mp4
+
+#EXTINF:-1 tvg-id="56" tvg-name="Ep.56 - Rush!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.56 - Rush!
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/18_MQ.mp4
+
+#EXTINF:-1 tvg-id="57" tvg-name="Ep.57 - Exercícios de Resgate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.57 - Exercícios de Resgate
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/19_MQ.mp4
+
+#EXTINF:-1 tvg-id="58" tvg-name="Ep.58 - Especial: Salve o Mundo com Amor!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.58 - Especial: Salve o Mundo com Amor!
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/20_MQ.mp4
+
+#EXTINF:-1 tvg-id="59" tvg-name="Ep.59 - Qual a Grande Ideia?" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.59 - Qual a Grande Ideia?
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/21v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="60" tvg-name="Ep.60 - Uma Conversa Sobre Seu Dom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.60 - Uma Conversa Sobre Seu Dom
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/22_MQ.mp4
+
+#EXTINF:-1 tvg-id="61" tvg-name="Ep.61 - Deku vs Kacchan 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.61 - Deku vs Kacchan 2
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/23v2_MQ.mp4
+
+#EXTINF:-1 tvg-id="62" tvg-name="Ep.62 - Uma Temporada para Encontros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.62 - Uma Temporada para Encontros
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/24_MQ.mp4
+
+#EXTINF:-1 tvg-id="63" tvg-name="Ep.63 - Incomparável" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.63 - Incomparável
+https://videos.animesgratisbr.com/pubfolder/animes/BokuNoHero3/25_MQ.mp4
+
+#EXTINF:-1 tvg-id="64" tvg-name="Ep.64 - Furo Sobre a Turma 1-A da U.A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.64 - Furo Sobre a Turma 1-A da U.A
+https://www.animeson.club/boku-no-hero-academia-4-temporada/168635.mp4
+
+#EXTINF:-1 tvg-id="65" tvg-name="Ep.65 - Overhaul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.65 - Overhaul
+https://www.animeson.club/boku-no-hero-academia-4-temporada/168782.mp4
+
+#EXTINF:-1 tvg-id="66" tvg-name="Ep.66 - Garoto Conhece..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.66 - Garoto Conhece...
+https://videos.animesgratisbr.com/pubfolder/animes/BokunoHero4/03.mp4
+
+#EXTINF:-1 tvg-id="67" tvg-name="Ep.67 - Destino de Luta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.67 - Destino de Luta
+https://videos.animesgratisbr.com/pubfolder/animes/BokunoHero4/04.mp4
+
+#EXTINF:-1 tvg-id="68" tvg-name="Ep.68 - Coragem Vamos Fazer o Red Riot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.68 - Coragem Vamos Fazer o Red Riot
+https://videos.animesgratisbr.com/pubfolder/animes/BokunoHero4/05.mp4
+
+#EXTINF:-1 tvg-id="69" tvg-name="Ep.69 - Conversa Desagradável" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.69 - Conversa Desagradável
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.69.mp4
+
+#EXTINF:-1 tvg-id="70" tvg-name="Ep.70 - Vá!!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.70 - Vá!!
+https://videos.animesgratisbr.com/pubfolder/animes/BokunoHero4/07.mp4
+
+#EXTINF:-1 tvg-id="71" tvg-name="Ep.71 - O Suneater dos Big Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.71 - O Suneater dos Big Three
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.71.mp4
+
+#EXTINF:-1 tvg-id="72" tvg-name="Ep.72 - Red Riot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.72 - Red Riot
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.72.mp4
+
+#EXTINF:-1 tvg-id="73" tvg-name="Ep.73 - Esquadrão Temporário" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.73 - Esquadrão Temporário
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.73.mp4
+
+#EXTINF:-1 tvg-id="74" tvg-name="Ep.74 - Lemillion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.74 - Lemillion
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.74.mp4
+
+#EXTINF:-1 tvg-id="75" tvg-name="Ep.75 - Esperança Invisível" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.75 - Esperança Invisível
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.75.mp4
+
+#EXTINF:-1 tvg-id="76" tvg-name="Ep.76 - 100% Infinito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.76 - 100% Infinito
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.76.mp4
+
+#EXTINF:-1 tvg-id="77" tvg-name="Ep.77 - Futuro Brilhante" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.77 - Futuro Brilhante
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.77.mp4
+
+#EXTINF:-1 tvg-id="78" tvg-name="Ep.78 - Chamas Latentes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.78 - Chamas Latentes
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.78.mp4
+
+#EXTINF:-1 tvg-id="79" tvg-name="Ep.79 - Agarre o coração dessas crianças" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.79 - Agarre o coração dessas crianças
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.79.mp4
+
+#EXTINF:-1 tvg-id="80" tvg-name="Ep.80 - Orgulhem-se candidatos à Licença Provisória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.80 - Orgulhem-se candidatos à Licença Provisória
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.80.mp4
+
+#EXTINF:-1 tvg-id="81" tvg-name="Ep.81 - Festival Escolar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.81 - Festival Escolar
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.81.mp4
+
+#EXTINF:-1 tvg-id="82" tvg-name="Ep.82 - A preparação para o Festival Escolar é a parte mais engraçada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.82 - A preparação para o Festival Escolar é a parte mais engraçada
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.82.mp4
+
+#EXTINF:-1 tvg-id="83" tvg-name="Ep.83 - Gold Tips Imperial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.83 - Gold Tips Imperial
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.83.mp4
+
+#EXTINF:-1 tvg-id="84" tvg-name="Ep.84 - Deku Vs. Gentle Criminal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.84 - Deku Vs. Gentle Criminal
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.84.mp4
+
+#EXTINF:-1 tvg-id="85" tvg-name="Ep.85 - Começa o Festival Cultural!!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.85 - Começa o Festival Cultural!!
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.85.mp4
+
+#EXTINF:-1 tvg-id="86" tvg-name="Ep.86 - Deixe acontecer Festival Cultural!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.86 - Deixe acontecer Festival Cultural!
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.86.mp4
+
+#EXTINF:-1 tvg-id="87" tvg-name="Ep.87 - Classificação de Super-heróis japoneses" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.87 - Classificação de Super-heróis japoneses
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.87.mp4
+
+#EXTINF:-1 tvg-id="88" tvg-name="Ep.88 - O começo dele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.88 - O começo dele
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.88.mp4
+
+#EXTINF:-1 tvg-id="89" tvg-name="Ep.89 - Todos em Posição! Turma 1-A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.89 - Todos em Posição! Turma 1-A
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.89.mp4
 
 
 
