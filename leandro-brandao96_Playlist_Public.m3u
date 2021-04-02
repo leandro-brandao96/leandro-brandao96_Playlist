@@ -40,6 +40,9 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Zack Snyders Justice League" tvg-logo="http://mrpiracy.top/images/capas/tt1236197422.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Zack%20Snyder's%20Justice%20League.srt",Zack Snyders Justice League
 https://archive.org/download/dabc27d59babe6ed0209b766e23e2b36/dabc27d59babe6ed0209b766e23e2b36.mp4
 
+#EXTINF:-1 tvg-id="2" tvg-name="Godzilla vs. Kong" tvg-logo="http://mrpiracy.top/images/capas/tt5034838.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Godzilla%20vs.%20Kong%202021.srt",Godzilla vs. Kong
+https://archive.org/download/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt.mp4
+
 
 
 ##   Filmes Animação   ##
@@ -108,6 +111,24 @@ https://archive.org/download/c134544f45efd63518e7a32be41c297e/c134544f45efd63518
 
 #EXTINF:-1 tvg-id="1" tvg-name="Zack Snyders Justice League" tvg-logo="http://mrpiracy.top/images/capas/tt1236197422.jpg" group-title="Filmes Fantasia" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Zack%20Snyder's%20Justice%20League.srt",Zack Snyders Justice League
 https://archive.org/download/dabc27d59babe6ed0209b766e23e2b36/dabc27d59babe6ed0209b766e23e2b36.mp4
+
+
+
+##   Filmes Ficção Científica   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="Godzilla vs. Kong" tvg-logo="http://mrpiracy.top/images/capas/tt5034838.jpg" group-title="Filmes Ficção Científica" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Godzilla%20vs.%20Kong%202021.srt",Godzilla vs. Kong
+https://archive.org/download/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt.mp4
+
+
+
+##   Filmes Thriller   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="Godzilla vs. Kong" tvg-logo="http://mrpiracy.top/images/capas/tt5034838.jpg" group-title="Filmes Thriller" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Godzilla%20vs.%20Kong%202021.srt",Godzilla vs. Kong
+https://archive.org/download/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt.mp4
 
 
 
@@ -3428,6 +3449,9 @@ https://archive.org/download/nanatsu-no-taizai_20210321/Nanatsu_No_Taizai_S04E10
 
 #EXTINF:-1 tvg-id="83" tvg-name="S04E11 - Aquele que se opõe a um Deus" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E11 - Aquele que se opõe a um Deus
 https://archive.org/download/nanatsu-no-taizai_20210321/Nanatsu_No_Taizai_S04E11.mp4
+
+#EXTINF:-1 tvg-id="84" tvg-name="S04E12 - Todos Seremos sua Força" tvg-logo="https://www.dafont.com/forum/attach/orig/8/4/846064.png" group-title="Nanatsu No Taizai",S04E12 - Todos Seremos sua Força
+https://archive.org/download/nanatsu-no-taizai_20210321/Nanatsu_No_Taizai_S04E12.mp4
 
 
 
