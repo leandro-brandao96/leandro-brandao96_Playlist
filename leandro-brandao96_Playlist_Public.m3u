@@ -6,6 +6,9 @@
 
 
 
+#EXTINF:-1 group-title="FREE IPTV" tvg-id="PTIPTV" tvg-logo="https://www.tugaiptv.net/home/wp-content/uploads/2017/11/Untitled-2-01.jpg",PTIPTV
+https://ptiptv.tk/lista.m3u8
+
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
@@ -310,6 +313,240 @@ https://archive.org/download/btwman2019/BtWmanS02E082019.mp4
 
 #EXTINF:-1 tvg-id="29" tvg-name="S02E09 - Rule #1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Batwoman_TV_series_logo.png/250px-Batwoman_TV_series_logo.png" group-title="Batwoman" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Batwoman%20S02E09.srt",S02E09 - Rule #1
 https://archive.org/download/btwman2019/BtWmanS02E092019.mp4
+
+
+
+##   Fear The Walking Dead   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="S01E01 - Pilot" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S01E01.srt",S01E01 - Pilot
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S01E01.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - So Close Yet So Far" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S01E02.srt",S01E02 - So Close Yet So Far
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S01E02.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-name="S01E03 - The Dog" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S01E03.srt",S01E03 - The Dog
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S01E03.mp4
+
+#EXTINF:-1 tvg-id="4" tvg-name="S01E04 - Not Fade Away" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S01E04.srt",S01E04 - Not Fade Away
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S01E04.mp4
+
+#EXTINF:-1 tvg-id="5" tvg-name="S01E05 - Cobalt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S01E05.srt",S01E05 - Cobalt
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S01E05.mp4
+
+#EXTINF:-1 tvg-id="6" tvg-name="S01E06 - The Good Man" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S01E06.srt",S01E06 - The Good Man
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S01E06.mp4
+
+#EXTINF:-1 tvg-id="7" tvg-name="S02E01 - Monster" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E01.srt",S02E01 - Monster
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E01.mp4
+
+#EXTINF:-1 tvg-id="8" tvg-name="S02E02 - We All Fall Down" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E02.srt",S02E02 - We All Fall Down
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E02.mp4
+
+#EXTINF:-1 tvg-id="9" tvg-name="S02E03 - Ouroboros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E03.srt",S02E03 - Ouroboros
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E03.mp4
+
+#EXTINF:-1 tvg-id="10" tvg-name="S02E04 - Blood in the Streets" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E04.srt",S02E04 - Blood in the Streets
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E04.mp4
+
+#EXTINF:-1 tvg-id="11" tvg-name="S02E05 - Captive" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E05.srt",S02E05 - Captive
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E05.mp4
+
+#EXTINF:-1 tvg-id="12" tvg-name="S02E06 - Sicut Cervus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E06.srt",S02E06 - Sicut Cervus
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E06.mp4
+
+#EXTINF:-1 tvg-id="13" tvg-name="S02E07 - Shiva" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E07.srt",S02E07 - Shiva
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E07.mp4
+
+#EXTINF:-1 tvg-id="14" tvg-name="S02E08 - Grotesque" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E08.srt",S02E08 - Grotesque
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E08.mp4
+
+#EXTINF:-1 tvg-id="15" tvg-name="S02E09 - Los Muertos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E09.srt",S02E09 - Los Muertos
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E09.mp4
+
+#EXTINF:-1 tvg-id="16" tvg-name="S02E10 - Do Not Disturb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E10.srt",S02E10 - Do Not Disturb
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E10.mp4
+
+#EXTINF:-1 tvg-id="17" tvg-name="S02E11 - Pablo & Jessica" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E11.srt",S02E11 - Pablo & Jessica
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E11.mp4
+
+#EXTINF:-1 tvg-id="18" tvg-name="S02E12 - Pillar of Salt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E12.srt",S02E12 - Pillar of Salt
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E12.mp4
+
+#EXTINF:-1 tvg-id="19" tvg-name="S02E13 - Date of Death" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E13.srt",S02E13 - Date of Death
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E13.mp4
+
+#EXTINF:-1 tvg-id="20" tvg-name="S02E14 - Wrath" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E14.srt",S02E14 - Wrath
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E14.mp4
+
+#EXTINF:-1 tvg-id="21" tvg-name="S02E15 - North" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S02E15.srt",S02E15 - North
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S02E15.mp4
+
+#EXTINF:-1 tvg-id="22" tvg-name="S03E01 - Eye of the Beholder" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E01.srt",S03E01 - Eye of the Beholder
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E01.mp4
+
+#EXTINF:-1 tvg-id="23" tvg-name="S03E02 - The New Frontier" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E02.srt",S03E02 - The New Frontier
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E02.mp4
+
+#EXTINF:-1 tvg-id="24" tvg-name="S03E03 - TEOTWAWKI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E03.srt",S03E03 - TEOTWAWKI
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E03.mp4
+
+#EXTINF:-1 tvg-id="25" tvg-name="S03E04 - 100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E04.srt",S03E04 - 100
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E04.mp4
+
+#EXTINF:-1 tvg-id="26" tvg-name="S03E05 - Burning in Water Drowning in Flame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E05.srt",S03E05 - Burning in Water Drowning in Flame
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E05.mp4
+
+#EXTINF:-1 tvg-id="27" tvg-name="S03E06 - Red Dirt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E06.srt",S03E06 - Red Dirt
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E06.mp4
+
+#EXTINF:-1 tvg-id="28" tvg-name="S03E07 - The Unveiling" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E07.srt",S03E07 - The Unveiling
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E07.mp4
+
+#EXTINF:-1 tvg-id="29" tvg-name="S03E08 - Children of Wrath" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E08.srt",S03E08 - Children of Wrath
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E08.mp4
+
+#EXTINF:-1 tvg-id="30" tvg-name="S03E09 - Minotaur" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E09.srt",S03E09 - Minotaur
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E09.mp4
+
+#EXTINF:-1 tvg-id="31" tvg-name="S03E10 - The Diviner" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E10.srt",S03E10 - The Diviner
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E10.mp4
+
+#EXTINF:-1 tvg-id="32" tvg-name="S03E11 - La Serpiente" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E11.srt",S03E11 - La Serpiente
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E11.mp4
+
+#EXTINF:-1 tvg-id="33" tvg-name="S03E12 - Brothers Keeper" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E12.srt",S03E12 - Brothers Keeper
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E12.mp4
+
+#EXTINF:-1 tvg-id="34" tvg-name="S03E13 - This Land Is Your Land" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E13.srt",S03E13 - This Land Is Your Land
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E13.mp4
+
+#EXTINF:-1 tvg-id="35" tvg-name="S03E14 - El Matadero" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E14.srt",S03E14 - El Matadero
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E14.mp4
+
+#EXTINF:-1 tvg-id="36" tvg-name="S03E15 - Things Bad Begun" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E15.srt",S03E15 - Things Bad Begun
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E15.mp4
+
+#EXTINF:-1 tvg-id="37" tvg-name="S03E16 - Sleigh Ride" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S03E16.srt",S03E16 - Sleigh Ride
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S03E16.mp4
+
+#EXTINF:-1 tvg-id="38" tvg-name="S04E01 - Whats Your Story?" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E01.srt",S04E01 - Whats Your Story?
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E01.mp4
+
+#EXTINF:-1 tvg-id="39" tvg-name="S04E02 - Another Day in the Diamond" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E02.srt",S04E02 - Another Day in the Diamond
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E02.mp4
+
+#EXTINF:-1 tvg-id="40" tvg-name="S04E03 - Good Out Here" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E03.srt",S04E03 - Good Out Here
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E03.mp4
+
+#EXTINF:-1 tvg-id="41" tvg-name="S04E04 - Buried" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E04.srt",S04E04 - Buried
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E04.mp4
+
+#EXTINF:-1 tvg-id="42" tvg-name="S04E05 - Laura" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E05.srt",S04E05 - Laura
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E05.mp4
+
+#EXTINF:-1 tvg-id="43" tvg-name="S04E06 - Just in Case" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E06.srt",S04E06 - Just in Case
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E06.mp4
+
+#EXTINF:-1 tvg-id="44" tvg-name="S04E07 - The Wrong Side of Where You Are Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E07.srt",S04E07 - The Wrong Side of Where You Are Now
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E07.mp4
+
+#EXTINF:-1 tvg-id="45" tvg-name="S04E08 - No Ones Gone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E08.srt",S04E08 - No Ones Gone
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E08.mp4
+
+#EXTINF:-1 tvg-id="46" tvg-name="S04E09 - People Like Us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E09.srt",S04E09 - People Like Us
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E09.mp4
+
+#EXTINF:-1 tvg-id="47" tvg-name="S04E10 - Close Your Eyes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E10.srt",S04E10 - Close Your Eyes
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E10.mp4
+
+#EXTINF:-1 tvg-id="48" tvg-name="S04E11 - The Code" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E11.srt",S04E11 - The Code
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E11.mp4
+
+#EXTINF:-1 tvg-id="49" tvg-name="S04E12 - Weak" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E12.srt",S04E12 - Weak
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E12.mp4
+
+#EXTINF:-1 tvg-id="50" tvg-name="S04E13 - Blackjack" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E13.srt",S04E13 - Blackjack
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E13.mp4
+
+#EXTINF:-1 tvg-id="51" tvg-name="S04E14 - MM 54" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E14.srt",S04E14 - MM 54
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E14.mp4
+
+#EXTINF:-1 tvg-id="52" tvg-name="S04E15 - I Lose People..." tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E15.srt",S04E15 - I Lose People...
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E15.mp4
+
+#EXTINF:-1 tvg-id="53" tvg-name="S04E16 - ... I Lose Myself" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S04E16.srt",S04E16 - ... I Lose Myself
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S04E16.mp4
+
+#EXTINF:-1 tvg-id="55" tvg-name="S05E01 - Here to Help" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E01.srt",S05E01 - Here to Help
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E01.mp4
+
+#EXTINF:-1 tvg-id="56" tvg-name="S05E02 - The Hurt That Will Happen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E02.srt",S05E02 - The Hurt That Will Happen
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E02.mp4
+
+#EXTINF:-1 tvg-id="57" tvg-name="S05E03 - Humbugs Gulch" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E03.srt",S05E03 - Humbugs Gulch
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E03.mp4
+
+#EXTINF:-1 tvg-id="58" tvg-name="S05E04 - Skidmark" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E04.srt",S05E04 - Skidmark
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E04.mp4
+
+#EXTINF:-1 tvg-id="59" tvg-name="S05E05 - The End of Everything" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E05.srt",S05E05 - The End of Everything
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E05.mp4
+
+#EXTINF:-1 tvg-id="60" tvg-name="S05E06 - The Little Prince" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E06.srt",S05E06 - The Little Prince
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E06.mp4
+
+#EXTINF:-1 tvg-id="61" tvg-name="S05E07 - Still Standing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E07.srt",S05E07 - Still Standing
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E07.mp4
+
+#EXTINF:-1 tvg-id="62" tvg-name="S05E08 - Is Anybody Out There?" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E08.srt",S05E08 - Is Anybody Out There?
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E08.mp4
+
+#EXTINF:-1 tvg-id="63" tvg-name="S05E09 - Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E09.srt",S05E09 - Channel 4
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E09.mp4
+
+#EXTINF:-1 tvg-id="64" tvg-name="S05E10 - 210 Words Per Minute" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E10.srt",S05E10 - 210 Words Per Minute
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E10.mp4
+
+#EXTINF:-1 tvg-id="65" tvg-name="S05E11 - Youre Still Here" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E11.srt",S05E11 - Youre Still Here
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E11.mp4
+
+#EXTINF:-1 tvg-id="66" tvg-name="S05E12 - Ner Tamid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E12.srt",S05E12 - Ner Tamid
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E12.mp4
+
+#EXTINF:-1 tvg-id="67" tvg-name="S05E13 - Leave What You Dont" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E13.srt",S05E13 - Leave What You Dont
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E13.mp4
+
+#EXTINF:-1 tvg-id="68" tvg-name="S05E14 - Today and Tomorrow" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E14.srt",S05E14 - Today and Tomorrow
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E14.mp4
+
+#EXTINF:-1 tvg-id="69" tvg-name="S05E15 - Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E15.srt",S05E15 - Channel 5
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E15.mp4
+
+#EXTINF:-1 tvg-id="70" tvg-name="S05E16 - End of the Line" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S05E16.srt",S05E16 - End of the Line
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S05E16.mp4
+
+#EXTINF:-1 tvg-id="71" tvg-name="S06E01 - The End Is the Beginning" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E01.srt",S06E01 - The End Is the Beginning
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E01.mp4
+
+#EXTINF:-1 tvg-id="72" tvg-name="S06E02 - Welcome to the Club" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E02.srt",S06E02 - Welcome to the Club
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E02.mp4
+
+#EXTINF:-1 tvg-id="73" tvg-name="S06E03 - Alaska" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E03.srt",S06E03 - Alaska
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E03.mp4
+
+#EXTINF:-1 tvg-id="74" tvg-name="S06E04 - The Key" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E04.srt",S06E04 - The Key
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E04.mp4
+
+#EXTINF:-1 tvg-id="75" tvg-name="S06E05 - Honey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E05.srt",S06E05 - Honey
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E05.mp4
+
+#EXTINF:-1 tvg-id="76" tvg-name="S06E06 - Bury Her Next to Jaspers Leg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E06.srt",S06E06 - Bury Her Next to Jaspers Leg
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E06.mp4
+
+#EXTINF:-1 tvg-id="77" tvg-name="S06E07 - Damage from the Inside" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E07.srt",S06E07 - Damage from the Inside
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E07.mp4
 
 
 
