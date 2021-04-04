@@ -6,7 +6,7 @@
 
 
 
-#EXTINF:-1 group-title="FREE IPTV" tvg-id="PTIPTV" tvg-logo="https://www.tugaiptv.net/home/wp-content/uploads/2017/11/Untitled-2-01.jpg",PTIPTV
+#EXTINF:-1 tvg-id="PTIPTV" tvg-logo="https://www.tugaiptv.net/home/wp-content/uploads/2017/11/Untitled-2-01.jpg",PTIPTV
 https://ptiptv.tk/lista.m3u8
 
 #EXTINF:-1 group-title="FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
