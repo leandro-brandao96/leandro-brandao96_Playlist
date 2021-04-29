@@ -11,45 +11,45 @@
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp1.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/rtp1.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP2" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp2.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/rtp2.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://ptiptv.tk/tvi.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/tvi.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP3" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp3.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/rtp3.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
-https://ptiptv.tk/tvi24.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/tvi24.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
-https://ptiptv.tk/tvi-direct.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/tvi-direct.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPM" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpm.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/rtpm.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpac.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/rtpac.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPMA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpmd.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/rtpmd.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="ARTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/artv.png",ARTV
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?env=arlive
@@ -59,17 +59,17 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?env=arli
 https://ptiptv.tk/zigzag.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="FR24I" tvg-logo="https://www.meo.pt/PublishingImages/canais/france-24-i.png",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPI" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online-324x235.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpi.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/rtpi.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICI" tvg-logo="https://ptiptv.tk/logo?i=SICINT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVII" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png",TVI Internacional
-https://ptiptv.tk/tvi-internacional.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
+https://ptiptv.tk/tvi-internacional.m3u8?OknNVJabbhv2u1BUzqqX0FmeTOs
 
 
 
@@ -81,50 +81,50 @@ https://ptiptv.tk/tvi-internacional.m3u8?MknNVJabbhv2u1BUa3R2sm91DvU
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="Mortal Kombat" tvg-logo="http://mrpiracy.top/images/capas/tt0293429.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Mortal%20Kombat%202021.srt",Mortal Kombat
+#EXTINF:-1 tvg-id="1" tvg-name="The Virtuoso" tvg-logo="http://mrpiracy.top/images/capas/tt4136456.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Virtuoso%202021.srt",The Virtuoso
+https://archive.org/download/te-viuso-2021/TeViuso2021.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-name="Justice Society: World War II" tvg-logo="http://mrpiracy.top/images/capas/tt13804084.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Justice%20Society%20World%20War%20II%202021.srt",Justice Society: World War II
+https://archive.org/download/juice-socy-wwii-2021/JuiceSocyWWII2021.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-name="Mortal Kombat" tvg-logo="http://mrpiracy.top/images/capas/tt0293429.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Mortal%20Kombat%202021.srt",Mortal Kombat
 https://archive.org/download/mtal-kobt-2021/MtalKobt2021.mp4
 
-#EXTINF:-1 tvg-id="2" tvg-name="Stowaway" tvg-logo="http://mrpiracy.top/images/capas/tt9203694.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Stowaway%202021.srt",Stowaway
+#EXTINF:-1 tvg-id="4" tvg-name="Stowaway" tvg-logo="http://mrpiracy.top/images/capas/tt9203694.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Stowaway%202021.srt",Stowaway
 https://archive.org/download/soaay-2021/Soaay2021.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-name="The Courier" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg4YTJlNzMtY2U0OC00N2FjLWI0ZTgtNGM1NDRhMWNhZmRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Courier%202020.srt",The Courier
+#EXTINF:-1 tvg-id="5" tvg-name="The Courier" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg4YTJlNzMtY2U0OC00N2FjLWI0ZTgtNGM1NDRhMWNhZmRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Courier%202020.srt",The Courier
 https://archive.org/download/tcoier-2020/TCoier2020.mp4
 
-#EXTINF:-1 tvg-id="4" tvg-name="Why Did You Kill Me?" tvg-logo="http://mrpiracy.top/images/capas/tt14318430.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Why%20Did%20You%20Kill%20Me%202021.srt",Why Did You Kill Me?
+#EXTINF:-1 tvg-id="6" tvg-name="Why Did You Kill Me?" tvg-logo="http://mrpiracy.top/images/capas/tt14318430.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Why%20Did%20You%20Kill%20Me%202021.srt",Why Did You Kill Me?
 https://archive.org/download/wy-dd-ykl-m-2021/WyDdYKlM2021.mp4
 
-#EXTINF:-1 tvg-id="5" tvg-name="Nobody" tvg-logo="http://mrpiracy.top/images/capas/tt7888964.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Nobody%202021.srt",Nobody
+#EXTINF:-1 tvg-id="7" tvg-name="Nobody" tvg-logo="http://mrpiracy.top/images/capas/tt7888964.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Nobody%202021.srt",Nobody
 https://archive.org/download/nbdy-2021/Nbdy2021.mp4
 
-#EXTINF:-1 tvg-id="6" tvg-name="Covid Diaries NYC" tvg-logo="http://mrpiracy.top/images/capas/tt14057586.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Covid%20Diaries%20NYC%202021.srt",Covid Diaries NYC
+#EXTINF:-1 tvg-id="8" tvg-name="Covid Diaries NYC" tvg-logo="http://mrpiracy.top/images/capas/tt14057586.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Covid%20Diaries%20NYC%202021.srt",Covid Diaries NYC
 https://archive.org/download/cvd-dires-nyc-2021/CvdDiresNYC2021.mp4
 
-#EXTINF:-1 tvg-id="7" tvg-name="The Day Sports Stood Still" tvg-logo="http://mrpiracy.top/images/capas/tt12363832.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Day%20Sports%20Stood%20Still%202021.srt",The Day Sports Stood Still
+#EXTINF:-1 tvg-id="9" tvg-name="The Day Sports Stood Still" tvg-logo="http://mrpiracy.top/images/capas/tt12363832.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Day%20Sports%20Stood%20Still%202021.srt",The Day Sports Stood Still
 https://archive.org/download/te-dy-spts-soo-sil-2021/TeDySptsSooSil2021.mp4
 
-#EXTINF:-1 tvg-id="8" tvg-name="The Soul" tvg-logo="http://mrpiracy.top/images/capas/tt13598976.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Soul%202021.srt",The Soul
+#EXTINF:-1 tvg-id="10" tvg-name="The Soul" tvg-logo="http://mrpiracy.top/images/capas/tt13598976.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Soul%202021.srt",The Soul
 https://archive.org/download/th-sul-2021/ThSul2021.mp4
 
-#EXTINF:-1 tvg-id="9" tvg-name="Two Distant Strangers" tvg-logo="http://mrpiracy.top/images/capas/tt13472984.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Two%20Distant%20Strangers%202020.srt",Two Distant Strangers
+#EXTINF:-1 tvg-id="11" tvg-name="Two Distant Strangers" tvg-logo="http://mrpiracy.top/images/capas/tt13472984.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Two%20Distant%20Strangers%202020.srt",Two Distant Strangers
 https://archive.org/download/2-dsta-sngrs-2020/2DstaSngrs2020.mp4
 
-#EXTINF:-1 tvg-id="10" tvg-name="Rifkins Festival" tvg-logo="http://mrpiracy.top/images/capas/tt8593904.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Rifkin's%20Festival%202020.srt",Rifkins Festival
+#EXTINF:-1 tvg-id="12" tvg-name="Rifkins Festival" tvg-logo="http://mrpiracy.top/images/capas/tt8593904.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Rifkin's%20Festival%202020.srt",Rifkins Festival
 https://archive.org/download/rfkns-fesvl-2020/RfknsFesvl2020.mp4
 
-#EXTINF:-1 tvg-id="11" tvg-name="Lady of Guadalupe" tvg-logo="http://mrpiracy.top/images/capas/tt10886702.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Lady%20of%20Guadalupe%202020.srt",Lady of Guadalupe
+#EXTINF:-1 tvg-id="13" tvg-name="Lady of Guadalupe" tvg-logo="http://mrpiracy.top/images/capas/tt10886702.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Lady%20of%20Guadalupe%202020.srt",Lady of Guadalupe
 https://archive.org/download/lyf-gadap-2020/LyfGadap2020.mp4
 
-#EXTINF:-1 tvg-id="12" tvg-name="Falling" tvg-logo="http://mrpiracy.top/images/capas/tt9143112.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Falling%202020.srt",Falling
+#EXTINF:-1 tvg-id="14" tvg-name="Falling" tvg-logo="http://mrpiracy.top/images/capas/tt9143112.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Falling%202020.srt",Falling
 https://archive.org/download/fllng-2020/Fllng2020.mp4
 
-#EXTINF:-1 tvg-id="13" tvg-name="Have You Ever Seen Fireflies?" tvg-logo="http://mrpiracy.top/images/capas/tt13317694.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Have%20You%20Ever%20Seen%20Fireflies%202021.srt",Have You Ever Seen Fireflies?
+#EXTINF:-1 tvg-id="15" tvg-name="Have You Ever Seen Fireflies?" tvg-logo="http://mrpiracy.top/images/capas/tt13317694.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Have%20You%20Ever%20Seen%20Fireflies%202021.srt",Have You Ever Seen Fireflies?
 https://archive.org/download/dfh4j4df56g4sddrh84/dfh4j4df56g4sddrh84.mp4
-
-#EXTINF:-1 tvg-id="14" tvg-name="The World to Come" tvg-logo="http://mrpiracy.top/images/capas/tt9738716.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20World%20to%20Come%202021.srt",The World to Come
-https://archive.org/download/er9d86ty7er84erf14wef4r6g5rgergfwegft/er9d86ty7er84erf14wef4r6g5rgergfwegft.mp4
-
-#EXTINF:-1 tvg-id="14" tvg-name="Chaos Walking" tvg-logo="http://mrpiracy.top/images/capas/tt2076822.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Chaos%20Walking%202021.srt",Chaos Walking
-https://archive.org/download/er56g4sd564sd6f846gf4/er56g4sd564sd6f846gf4.mp4
 
 
 
@@ -168,6 +168,12 @@ https://archive.org/download/te-rekin-2021/TeRekin2021.mp4
 #EXTINF:-1 tvg-id="12" tvg-name="Mortal Kombat" tvg-logo="http://mrpiracy.top/images/capas/tt0293429.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Mortal%20Kombat%202021.srt",Mortal Kombat
 https://archive.org/download/mtal-kobt-2021/MtalKobt2021.mp4
 
+#EXTINF:-1 tvg-id="13" tvg-name="Justice Society: World War II" tvg-logo="http://mrpiracy.top/images/capas/tt13804084.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Justice%20Society%20World%20War%20II%202021.srt",Justice Society: World War II
+https://archive.org/download/juice-socy-wwii-2021/JuiceSocyWWII2021.mp4
+
+#EXTINF:-1 tvg-id="14" tvg-name="The Virtuoso" tvg-logo="http://mrpiracy.top/images/capas/tt4136456.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Virtuoso%202021.srt",The Virtuoso
+https://archive.org/download/te-viuso-2021/TeViuso2021.mp4
+
 
 
 ##   Filmes Animação   ##
@@ -179,6 +185,9 @@ https://archive.org/download/0217f-7521a-2d-70ca-84719db-45e-4ecc-1e/0217f7521a2
 
 #EXTINF:-1 tvg-id="2" tvg-name="Raya and the Last Dragon" tvg-logo="http://mrpiracy.top/images/capas/tt5109280.jpg" group-title="Filmes Animação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Raya%20and%20the%20Last%20Dragon%202021.srt",Raya and the Last Dragon
 https://archive.org/download/ryadte-lst-daon-2021/RyadteLstDaon2021.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-name="Justice Society: World War II" tvg-logo="http://mrpiracy.top/images/capas/tt13804084.jpg" group-title="Filmes Animação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Justice%20Society%20World%20War%20II%202021.srt",Justice Society: World War II
+https://archive.org/download/juice-socy-wwii-2021/JuiceSocyWWII2021.mp4
 
 
 
@@ -224,6 +233,9 @@ https://archive.org/download/spce-swers-2021/SpceSwers2021.mp4
 
 #EXTINF:-1 tvg-id="10" tvg-name="Mortal Kombat" tvg-logo="http://mrpiracy.top/images/capas/tt0293429.jpg" group-title="Filmes Aventura" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Mortal%20Kombat%202021.srt",Mortal Kombat
 https://archive.org/download/mtal-kobt-2021/MtalKobt2021.mp4
+
+#EXTINF:-1 tvg-id="11" tvg-name="Justice Society: World War II" tvg-logo="http://mrpiracy.top/images/capas/tt13804084.jpg" group-title="Filmes Aventura" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Justice%20Society%20World%20War%20II%202021.srt",Justice Society: World War II
+https://archive.org/download/juice-socy-wwii-2021/JuiceSocyWWII2021.mp4
 
 
 
@@ -335,6 +347,9 @@ https://archive.org/download/nbdy-2021/Nbdy2021.mp4
 
 #EXTINF:-1 tvg-id="10" tvg-name="Why Did You Kill Me?" tvg-logo="http://mrpiracy.top/images/capas/tt14318430.jpg" group-title="Filmes Crime" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Why%20Did%20You%20Kill%20Me%202021.srt",Why Did You Kill Me?
 https://archive.org/download/wy-dd-ykl-m-2021/WyDdYKlM2021.mp4
+
+#EXTINF:-1 tvg-id="11" tvg-name="The Virtuoso" tvg-logo="http://mrpiracy.top/images/capas/tt4136456.jpg" group-title="Filmes Crime" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Virtuoso%202021.srt",The Virtuoso
+https://archive.org/download/te-viuso-2021/TeViuso2021.mp4
 
 
 
@@ -709,6 +724,9 @@ https://archive.org/download/tcoier-2020/TCoier2020.mp4
 
 #EXTINF:-1 tvg-id="15" tvg-name="Stowaway" tvg-logo="http://mrpiracy.top/images/capas/tt9203694.jpg" group-title="Filmes Thriller" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Stowaway%202021.srt",Stowaway
 https://archive.org/download/soaay-2021/Soaay2021.mp4
+
+#EXTINF:-1 tvg-id="16" tvg-name="The Virtuoso" tvg-logo="http://mrpiracy.top/images/capas/tt4136456.jpg" group-title="Filmes Thriller" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Virtuoso%202021.srt",The Virtuoso
+https://archive.org/download/te-viuso-2021/TeViuso2021.mp4
 
 
 
@@ -1343,6 +1361,9 @@ https://archive.org/download/kg-fu-2021-s-01-e-01/KgFu2021S01E01.mp4
 
 #EXTINF:-1 tvg-id="2" tvg-name="S01E02 - Silence" tvg-logo="https://i.imgur.com/TpJ1Hgq.jpg" group-title="Kung Fu 2021" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Kung%20Fu%202021%20S01E02.srt",S01E02 - Silence
 https://archive.org/download/kg-fu-2021-s-01-e-01/KgFu2021S01E02.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-name="S01E03 - Patience" tvg-logo="https://i.imgur.com/TpJ1Hgq.jpg" group-title="Kung Fu 2021" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Kung%20Fu%202021%20S01E03.srt",S01E03 - Patience
+https://archive.org/download/kg-fu-2021-s-01-e-01/KgFu2021S01E03.mp4
 
 
 
@@ -3293,6 +3314,9 @@ https://archive.org/download/te-hnsmid-tle-2017/TeHnsmidTle2017S03E12.mp4
 
 #EXTINF:-1 tvg-id="36" tvg-name="S03E13 - Mayday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Handmaid%27s_Tale_intertitle.png/375px-The_Handmaid%27s_Tale_intertitle.png" group-title="The Handmaid's Tale" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Handmaid's%20Tale%20S03E13.srt",S03E13 - Mayday
 https://archive.org/download/te-hnsmid-tle-2017/TeHnsmidTle2017S03E13.mp4
+
+#EXTINF:-1 tvg-id="37" tvg-name="S04E01 - Pigs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Handmaid%27s_Tale_intertitle.png/375px-The_Handmaid%27s_Tale_intertitle.png" group-title="The Handmaid's Tale" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Handmaid's%20Tale%20S04E01.srt",S04E01 - Pigs
+https://archive.org/download/te-hnsmid-tle-2017/TeHnsmidTle2017S04E01.mp4
 
 
 
