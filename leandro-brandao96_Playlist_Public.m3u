@@ -11,45 +11,45 @@
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp1.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/rtp1.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP2" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp2.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/rtp2.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://ptiptv.tk/tvi.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/tvi.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP3" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp3.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/rtp3.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
-https://ptiptv.tk/tvi24.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/tvi24.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
-https://ptiptv.tk/tvi-direct.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/tvi-direct.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPM" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpm.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/rtpm.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpac.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/rtpac.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPMA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpmd.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/rtpmd.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="ARTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/artv.png",ARTV
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?env=arlive
@@ -63,13 +63,13 @@ http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPI" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online-324x235.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpi.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/rtpi.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICI" tvg-logo="https://ptiptv.tk/logo?i=SICINT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVII" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png",TVI Internacional
-https://ptiptv.tk/tvi-internacional.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
+https://ptiptv.tk/tvi-internacional.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 
 
@@ -81,50 +81,50 @@ https://ptiptv.tk/tvi-internacional.m3u8?R0nNVJabbhv2u1BUrRDOD8eT3hc
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="The Woman in the Window" tvg-logo="http://mrpiracy.top/images/capas/tt6111574.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Woman%20in%20the%20Window%202021.srt",The Woman in the Window
+#EXTINF:-1 tvg-id="1" tvg-name="Army of the Dead" tvg-logo="http://mrpiracy.top/images/capas/tt0993840.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Army%20of%20the%20Dead%202021.srt",Army of the Dead
+https://archive.org/download/aot-d-2021/AotD2021.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-name="The Woman in the Window" tvg-logo="http://mrpiracy.top/images/capas/tt6111574.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Woman%20in%20the%20Window%202021.srt",The Woman in the Window
 https://archive.org/download/twit-w-2021/TWitW2021.mp4
 
-#EXTINF:-1 tvg-id="2" tvg-name="French Exit" tvg-logo="http://mrpiracy.top/images/capas/tt10279362.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/French%20Exit%202021.srt",French Exit
+#EXTINF:-1 tvg-id="3" tvg-name="French Exit" tvg-logo="http://mrpiracy.top/images/capas/tt10279362.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/French%20Exit%202021.srt",French Exit
 https://archive.org/download/fe-2021/FE2021.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-name="I Am All Girls" tvg-logo="http://mrpiracy.top/images/capas/tt9013182.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/I%20Am%20All%20Girls%202021.srt",I Am All Girls
+#EXTINF:-1 tvg-id="4" tvg-name="I Am All Girls" tvg-logo="http://mrpiracy.top/images/capas/tt9013182.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/I%20Am%20All%20Girls%202021.srt",I Am All Girls
 https://archive.org/download/iaag-2021/IAAG2021.mp4
 
-#EXTINF:-1 tvg-id="4" tvg-name="The Djinn" tvg-logo="http://mrpiracy.top/images/capas/tt9352356.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Djinn%202021.srt",The Djinn
+#EXTINF:-1 tvg-id="5" tvg-name="The Djinn" tvg-logo="http://mrpiracy.top/images/capas/tt9352356.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Djinn%202021.srt",The Djinn
 https://archive.org/download/td-2021_202105/TD2021.mp4
 
-#EXTINF:-1 tvg-id="5" tvg-name="Great White" tvg-logo="http://mrpiracy.top/images/capas/tt8435002.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Great%20White%202021.srt",Great White
+#EXTINF:-1 tvg-id="6" tvg-name="Great White" tvg-logo="http://mrpiracy.top/images/capas/tt8435002.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Great%20White%202021.srt",Great White
 https://archive.org/download/gw-2021_202105/GW2021.mp4
 
-#EXTINF:-1 tvg-id="6" tvg-name="Doors" tvg-logo="http://mrpiracy.top/images/capas/tt12483708.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Doors%202021.srt",Doors
+#EXTINF:-1 tvg-id="7" tvg-name="Doors" tvg-logo="http://mrpiracy.top/images/capas/tt12483708.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Doors%202021.srt",Doors
 https://archive.org/download/dos-2021/Dos2021.mp4
 
-#EXTINF:-1 tvg-id="7" tvg-name="Happily" tvg-logo="http://mrpiracy.top/images/capas/tt9849004.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Happily%202021.srt",Happily
+#EXTINF:-1 tvg-id="8" tvg-name="Happily" tvg-logo="http://mrpiracy.top/images/capas/tt9849004.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Happily%202021.srt",Happily
 https://archive.org/download/hppy-2021/Hppy2021.mp4
 
-#EXTINF:-1 tvg-id="8" tvg-name="Breaking News in Yuba County" tvg-logo="http://mrpiracy.top/images/capas/tt7737640.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Breaking%20News%20in%20Yuba%20County%202021.srt",Breaking News in Yuba County
+#EXTINF:-1 tvg-id="9" tvg-name="Breaking News in Yuba County" tvg-logo="http://mrpiracy.top/images/capas/tt7737640.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Breaking%20News%20in%20Yuba%20County%202021.srt",Breaking News in Yuba County
 https://archive.org/download/bnin-yc-2021/BNinYC2021.mp4
 
-#EXTINF:-1 tvg-id="9" tvg-name="The United States vs. Billie Holiday" tvg-logo="http://mrpiracy.top/images/capas/tt8521718.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20United%20States%20vs%20Billie%20Holiday%202021.srt",The United States vs. Billie Holiday
+#EXTINF:-1 tvg-id="10" tvg-name="The United States vs. Billie Holiday" tvg-logo="http://mrpiracy.top/images/capas/tt8521718.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20United%20States%20vs%20Billie%20Holiday%202021.srt",The United States vs. Billie Holiday
 https://archive.org/download/tusvs-bh-2021/TUSvsBH2021.mp4
 
-#EXTINF:-1 tvg-id="10" tvg-name="Crisis" tvg-logo="http://mrpiracy.top/images/capas/tt9731682.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Crisis%202021.srt",Crisis
+#EXTINF:-1 tvg-id="11" tvg-name="Crisis" tvg-logo="http://mrpiracy.top/images/capas/tt9731682.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Crisis%202021.srt",Crisis
 https://archive.org/download/cis-2021/Cis2021.mp4
 
-#EXTINF:-1 tvg-id="11" tvg-name="Tom Clancys Without Remorse" tvg-logo="http://mrpiracy.top/images/capas/tt0499097.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Tom%20Clancy's%20Without%20Remorse%202021.srt",Tom Clancys Without Remorse
+#EXTINF:-1 tvg-id="12" tvg-name="Tom Clancys Without Remorse" tvg-logo="http://mrpiracy.top/images/capas/tt0499097.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Tom%20Clancy's%20Without%20Remorse%202021.srt",Tom Clancys Without Remorse
 https://archive.org/download/to-cacy-wout-rose-2021/ToCacyWoutRose2021.mp4
 
-#EXTINF:-1 tvg-id="12" tvg-name="The Mitchells vs. The Machines" tvg-logo="http://mrpiracy.top/images/capas/tt7979580.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Mitchells%20vs.%20The%20Machines%202021.srt",The Mitchells vs. The Machines
+#EXTINF:-1 tvg-id="13" tvg-name="The Mitchells vs. The Machines" tvg-logo="http://mrpiracy.top/images/capas/tt7979580.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Mitchells%20vs.%20The%20Machines%202021.srt",The Mitchells vs. The Machines
 https://archive.org/download/tmihllv-te-mies-2021/TMihllvTeMies2021.mp4
 
-#EXTINF:-1 tvg-id="13" tvg-name="Homunculus" tvg-logo="http://mrpiracy.top/images/capas/tt14404280.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Homunculus%202021.srt",Homunculus
+#EXTINF:-1 tvg-id="14" tvg-name="Homunculus" tvg-logo="http://mrpiracy.top/images/capas/tt14404280.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Homunculus%202021.srt",Homunculus
 https://archive.org/download/hounclus-2021/Hounclus2021.mp4
 
-#EXTINF:-1 tvg-id="14" tvg-name="Things Heard & Seen" tvg-logo="http://mrpiracy.top/images/capas/tt10962368.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Things%20Heard%20%26%20Seen%202021.srt",Things Heard & Seen
+#EXTINF:-1 tvg-id="15" tvg-name="Things Heard & Seen" tvg-logo="http://mrpiracy.top/images/capas/tt10962368.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Things%20Heard%20%26%20Seen%202021.srt",Things Heard & Seen
 https://archive.org/download/tha-s-2021/THaS2021.mp4
-
-#EXTINF:-1 tvg-id="15" tvg-name="Caught by a Wave" tvg-logo="http://mrpiracy.top/images/capas/tt12013758.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Caught%20by%20a%20Wave%202021.srt",Caught by a Wave
-https://archive.org/download/cughya-wve-2021/CughyaWve2021.mp4
 
 
 
@@ -188,6 +188,12 @@ https://archive.org/download/tm-2021/TM2021.mp4
 
 #EXTINF:-1 tvg-id="19" tvg-name="Vanquish" tvg-logo="http://mrpiracy.top/images/capas/tt5932368.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Vanquish%202021.srt",Vanquish
 https://archive.org/download/vaish-2021/Vaish2021.mp4
+
+#EXTINF:-1 tvg-id="20" tvg-name="Red" tvg-logo="http://mrpiracy.top/images/capas/tt11191344.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Red%202021.srt",Red
+https://archive.org/download/rd-2021/Rd2021.mp4
+
+#EXTINF:-1 tvg-id="21" tvg-name="Army of the Dead" tvg-logo="http://mrpiracy.top/images/capas/tt0993840.jpg" group-title="Filmes Ação" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Army%20of%20the%20Dead%202021.srt",Army of the Dead
+https://archive.org/download/aot-d-2021/AotD2021.mp4
 
 
 
@@ -423,6 +429,12 @@ https://archive.org/download/iaag-2021/IAAG2021.mp4
 #EXTINF:-1 tvg-id="17" tvg-name="Vanquish" tvg-logo="http://mrpiracy.top/images/capas/tt5932368.jpg" group-title="Filmes Crime" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Vanquish%202021.srt",Vanquish
 https://archive.org/download/vaish-2021/Vaish2021.mp4
 
+#EXTINF:-1 tvg-id="18" tvg-name="Red" tvg-logo="http://mrpiracy.top/images/capas/tt11191344.jpg" group-title="Filmes Crime" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Red%202021.srt",Red
+https://archive.org/download/rd-2021/Rd2021.mp4
+
+#EXTINF:-1 tvg-id="19" tvg-name="Army of the Dead" tvg-logo="http://mrpiracy.top/images/capas/tt0993840.jpg" group-title="Filmes Crime" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Army%20of%20the%20Dead%202021.srt",Army of the Dead
+https://archive.org/download/aot-d-2021/AotD2021.mp4
+
 
 
 ##   Filmes Curtas Metragens   ##
@@ -636,6 +648,9 @@ https://archive.org/download/twwmd-2021/TWWMD2021.mp4
 #EXTINF:-1 tvg-id="47" tvg-name="Mainstream" tvg-logo="http://mrpiracy.top/images/capas/tt9224288.jpg" group-title="Filmes Drama" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Mainstream%202021.srt",Mainstream
 https://archive.org/download/mintr-2021/Mintr2021.mp4
 
+#EXTINF:-1 tvg-id="48" tvg-name="Red" tvg-logo="http://mrpiracy.top/images/capas/tt11191344.jpg" group-title="Filmes Drama" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Red%202021.srt",Red
+https://archive.org/download/rd-2021/Rd2021.mp4
+
 
 
 ##   Filmes Família   ##
@@ -838,6 +853,9 @@ https://archive.org/download/gw-2021_202105/GW2021.mp4
 
 #EXTINF:-1 tvg-id="10" tvg-name="The Djinn" tvg-logo="http://mrpiracy.top/images/capas/tt9352356.jpg" group-title="Filmes Terror" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Djinn%202021.srt",The Djinn
 https://archive.org/download/td-2021_202105/TD2021.mp4
+
+#EXTINF:-1 tvg-id="11" tvg-name="Army of the Dead" tvg-logo="http://mrpiracy.top/images/capas/tt0993840.jpg" group-title="Filmes Terror" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Army%20of%20the%20Dead%202021.srt",Army of the Dead
+https://archive.org/download/aot-d-2021/AotD2021.mp4
 
 
 
@@ -5487,6 +5505,9 @@ https://archive.org/download/boruto-naruto-next-generations_202103/Boruto_Naruto
 
 #EXTINF:-1 tvg-id="199" tvg-name="Ep.199 - Sobrecarga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Boruto_logo.png/440px-Boruto_logo.png" group-title="Boruto: Naruto Next Generations",Ep.199 - Sobrecarga
 https://archive.org/download/boruto-naruto-next-generations_202103/Boruto_Naruto_Next_Generations_Ep.199.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-name="Ep.200 - Novo Aprendiz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Boruto_logo.png/440px-Boruto_logo.png" group-title="Boruto: Naruto Next Generations",Ep.200 - Novo Aprendiz
+https://archive.org/download/boruto-naruto-next-generations_202103/Boruto_Naruto_Next_Generations_Ep.200.mp4
 
 
 
@@ -11377,6 +11398,9 @@ https://archive.org/download/one-piece_20210321/One%20Piece%20Epis%C3%B3dio%2097
 
 #EXTINF:-1 tvg-id="974" tvg-name="Ep.974 - Oden Não Seria Oden se Não Fosse Fervido!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.974 - Oden Não Seria Oden se Não Fosse Fervido!
 https://archive.org/download/one-piece_20210321/One%20Piece%20Epis%C3%B3dio%20974.mp4
+
+#EXTINF:-1 tvg-id="975" tvg-name="Ep.975 - O Castelo em Chamas! O Destino do Clã Kozuki!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/220px-One_Piece_Logo.svg.png" group-title="One Piece",Ep.975 - O Castelo em Chamas! O Destino do Clã Kozuki!
+https://archive.org/download/one-piece_20210321/One%20Piece%20Epis%C3%B3dio%20975.mp4
 
 
 
