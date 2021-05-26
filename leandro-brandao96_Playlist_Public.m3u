@@ -81,6 +81,9 @@ https://ptiptv.tk/tvi-internacional.m3u8?UknNVJabbhv2u1BUCId5btSVcXg
 
 
 
+#EXTINF:-1 tvg-id="1" tvg-name="The Unholy" tvg-logo="http://mrpiracy.top/images/capas/tt9419056.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Unholy%202021.srt",The Unholy
+https://archive.org/download/tu-2021/TU2021.mp4
+
 #EXTINF:-1 tvg-id="1" tvg-name="Army of the Dead" tvg-logo="http://mrpiracy.top/images/capas/tt0993840.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Army%20of%20the%20Dead%202021.srt",Army of the Dead
 https://archive.org/download/aot-d-2021/AotD2021.mp4
 
@@ -862,6 +865,9 @@ https://archive.org/download/td-2021_202105/TD2021.mp4
 
 #EXTINF:-1 tvg-id="11" tvg-name="Army of the Dead" tvg-logo="http://mrpiracy.top/images/capas/tt0993840.jpg" group-title="Filmes Terror" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Army%20of%20the%20Dead%202021.srt",Army of the Dead
 https://archive.org/download/aot-d-2021/AotD2021.mp4
+
+#EXTINF:-1 tvg-id="12" tvg-name="The Unholy" tvg-logo="http://mrpiracy.top/images/capas/tt9419056.jpg" group-title="Filmes Terror" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Unholy%202021.srt",The Unholy
+https://archive.org/download/tu-2021/TU2021.mp4
 
 
 
