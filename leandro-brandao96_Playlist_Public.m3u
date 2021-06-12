@@ -7,49 +7,49 @@
 
 
 #EXTM3U url-tvg="https://ptiptv.tk/guia.xml"
-#PLAYLIST:Portugal
+#PLAYLIST:leandro-brandao96_Playlist_Public
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp1.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/rtp1.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP2" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp2.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/rtp2.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://ptiptv.tk/tvi.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/tvi.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP3" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp3.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/rtp3.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
-https://ptiptv.tk/tvi24.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/tvi24.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
-https://ptiptv.tk/tvi-direct.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/tvi-direct.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPM" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpm.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/rtpm.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpac.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/rtpac.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPMA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpmd.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/rtpmd.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="ARTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/artv.png",ARTV
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?env=arlive
@@ -63,13 +63,13 @@ http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPI" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online-324x235.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpi.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/rtpi.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICI" tvg-logo="https://ptiptv.tk/logo?i=SICINT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVII" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png",TVI Internacional
-https://ptiptv.tk/tvi-internacional.m3u8?ZUnNVJabbhv2u1BUSi_NPP0QWBI
+https://ptiptv.tk/tvi-internacional.m3u8?ZknNVJabbhv2u1BUFtaNPtmDWpQ
 
 
 
@@ -239,6 +239,9 @@ https://archive.org/download/ryadte-lst-daon-2021-ptpt/RyadteLstDaon2021PTPT.mp4
 
 #EXTINF:-1 tvg-id="2" tvg-name="Cruella" tvg-logo="http://mrpiracy.top/images/capas/tt3228774.jpg" group-title="Filmes Animação PT",Cruella
 https://archive.org/download/crla-pt-2021/CrlaPT2021.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-name="Tom & Jerry" tvg-logo="http://mrpiracy.top/images/capas/tt1361336.jpg" group-title="Filmes Animação PT",Tom & Jerry
+https://archive.org/download/tjpt-2021/TJPT2021.mp4
 
 
 
@@ -863,6 +866,9 @@ https://archive.org/download/sft-bo-s-2021/SFtBoS2021.mp4
 #EXTINF:-1 tvg-id="9" tvg-name="The Conjuring: The Devil Made Me Do It" tvg-logo="http://mrpiracy.top/images/capas/tt7069210.jpg" group-title="Filmes Mistério" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Conjuring%20The%20Devil%20Made%20Me%20Do%20It%202021.srt",The Conjuring: The Devil Made Me Do It
 https://archive.org/download/tctdmmdi-2021/TCTDMMDI2021.mp4
 
+#EXTINF:-1 tvg-id="10" tvg-name="Seance" tvg-logo="http://mrpiracy.top/images/capas/tt11188624.jpg" group-title="Filmes Mistério" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Seance%202021.srt",Seance
+https://archive.org/download/sanc-2021/Sanc2021.mp4
+
 
 
 ##   Filmes Música   ##
@@ -967,6 +973,9 @@ https://archive.org/download/sft-bo-s-2021/SFtBoS2021.mp4
 
 #EXTINF:-1 tvg-id="14" tvg-name="The Conjuring: The Devil Made Me Do It" tvg-logo="http://mrpiracy.top/images/capas/tt7069210.jpg" group-title="Filmes Terror" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Conjuring%20The%20Devil%20Made%20Me%20Do%20It%202021.srt",The Conjuring: The Devil Made Me Do It
 https://archive.org/download/tctdmmdi-2021/TCTDMMDI2021.mp4
+
+#EXTINF:-1 tvg-id="15" tvg-name="Seance" tvg-logo="http://mrpiracy.top/images/capas/tt11188624.jpg" group-title="Filmes Terror" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Seance%202021.srt",Seance
+https://archive.org/download/sanc-2021/Sanc2021.mp4
 
 
 
