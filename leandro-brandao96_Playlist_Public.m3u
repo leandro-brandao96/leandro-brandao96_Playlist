@@ -11,45 +11,45 @@
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp1.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/rtp1.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP2" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp2.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/rtp2.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://ptiptv.tk/tvi.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/tvi.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP3" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp3.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/rtp3.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
-https://ptiptv.tk/tvi24.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/tvi24.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
-https://ptiptv.tk/tvi-direct.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/tvi-direct.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPM" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpm.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/rtpm.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpac.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/rtpac.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPMA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpmd.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/rtpmd.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="ARTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/artv.png",ARTV
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?env=arlive
@@ -63,13 +63,13 @@ http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPI" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online-324x235.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpi.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/rtpi.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICI" tvg-logo="https://ptiptv.tk/logo?i=SICINT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVII" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png",TVI Internacional
-https://ptiptv.tk/tvi-internacional.m3u8?aEnNVJabbhv2u1BUS8opfyKMhhA
+https://ptiptv.tk/tvi-internacional.m3u8?aUnNVJabbhv2u1BUd9Z3-ZQSlUk
 
 
 
@@ -414,6 +414,9 @@ https://archive.org/download/lc-2021/LC2021.mp4
 #EXTINF:-1 tvg-id="28" tvg-name="Bo Burnham: Inside" tvg-logo="http://mrpiracy.top/images/capas/tt14544192.jpg" group-title="Filmes Comédia" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Bo%20Burnham%20Inside%202021.srt",Bo Burnham: Inside
 https://archive.org/download/bbi-2021/BBI2021.mp4
 
+#EXTINF:-1 tvg-id="29" tvg-name="Os Salafrários" tvg-logo="http://mrpiracy.top/images/capas/tt14371060.jpg" group-title="Filmes Comédia",Os Salafrários
+https://archive.org/download/os-2021_202106/OS2021.mp4
+
 
 
 ##   Filmes Crime   ##
@@ -488,6 +491,9 @@ https://archive.org/download/sr-2021/SR2021.mp4
 
 #EXTINF:-1 tvg-id="23" tvg-name="Gatao: The Last Stray" tvg-logo="http://mrpiracy.top/images/capas/tt14720502.jpg" group-title="Filmes Crime" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Gatao%20The%20Last%20Stray%202021.srt",Gatao: The Last Stray
 https://archive.org/download/gtls-2021/GTLS2021.mp4
+
+#EXTINF:-1 tvg-id="24" tvg-name="Os Salafrários" tvg-logo="http://mrpiracy.top/images/capas/tt14371060.jpg" group-title="Filmes Crime",Os Salafrários
+https://archive.org/download/os-2021_202106/OS2021.mp4
 
 
 
@@ -1739,6 +1745,9 @@ https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E14.mp4
 
 #EXTINF:-1 tvg-id="85" tvg-name="S06E15 - USS Pennsylvania" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E15.srt",S06E15 - USS Pennsylvania
 https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E15.mp4
+
+#EXTINF:-1 tvg-id="86" tvg-name="S06E16 - The Beginning" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Fear_The_Walking_Dead_title_card.png" group-title="Fear The Walking Dead" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20The%20Walking%20Dead%20S06E16.srt",S06E16 - The Beginning
+https://archive.org/download/fr-twing-dd-2015/FrTWingDd2015S06E16.mp4
 
 
 
