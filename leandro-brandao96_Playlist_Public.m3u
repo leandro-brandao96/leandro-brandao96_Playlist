@@ -11,45 +11,45 @@
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp1.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/rtp1.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP2" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp2.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/rtp2.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://ptiptv.tk/tvi.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/tvi.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP3" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp3.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/rtp3.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
-https://ptiptv.tk/tvi24.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/tvi24.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
-https://ptiptv.tk/tvi-direct.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/tvi-direct.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPM" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpm.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/rtpm.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpac.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/rtpac.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPMA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpmd.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/rtpmd.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="ARTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/artv.png",ARTV
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?env=arlive
@@ -63,13 +63,13 @@ http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPI" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online-324x235.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpi.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/rtpi.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICI" tvg-logo="https://ptiptv.tk/logo?i=SICINT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVII" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png",TVI Internacional
-https://ptiptv.tk/tvi-internacional.m3u8?bEnNVJabbhv2u1BU5KcRZDvo0Hk
+https://ptiptv.tk/tvi-internacional.m3u8?bknNVJabbhv2u1BUYLNPFRwt-1o
 
 
 
@@ -2879,6 +2879,36 @@ https://archive.org/download/mcgvr-2016/McGvr2016S05E14.mp4
 
 #EXTINF:-1 tvg-id="94" tvg-name="S05E15 - Abduction + Memory + Time + Fireworks + Dispersal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/MacGyver_Season_2_Title_Card.png/250px-MacGyver_Season_2_Title_Card.png" group-title="Macgyver 2016" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/MacGyver%202016%20S05E15.srt",S05E15 - Abduction + Memory + Time + Fireworks + Dispersal
 https://archive.org/download/mcgvr-2016/McGvr2016S05E15.mp4
+
+
+
+##   See   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="S01E01 - Godflame" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/See_Trailer_Logo.jpg/260px-See_Trailer_Logo.jpg" group-title="See" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/See%202019%20S01E01.srt",S01E01 - Godflame
+https://archive.org/download/s-2019/S2019S01E01.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-name="S01E02 - Message in a Bottle" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/See_Trailer_Logo.jpg/260px-See_Trailer_Logo.jpg" group-title="See" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/See%202019%20S01E02.srt",S01E02 - Message in a Bottle
+https://archive.org/download/s-2019/S2019S01E02.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-name="S01E03 - Fresh Blood" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/See_Trailer_Logo.jpg/260px-See_Trailer_Logo.jpg" group-title="See" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/See%202019%20S01E03.srt",S01E03 - Fresh Blood
+https://archive.org/download/s-2019/S2019S01E03.mp4
+
+#EXTINF:-1 tvg-id="4" tvg-name="S01E04 - The River" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/See_Trailer_Logo.jpg/260px-See_Trailer_Logo.jpg" group-title="See" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/See%202019%20S01E04.srt",S01E04 - The River
+https://archive.org/download/s-2019/S2019S01E04.mp4
+
+#EXTINF:-1 tvg-id="5" tvg-name="S01E05 - Plastic" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/See_Trailer_Logo.jpg/260px-See_Trailer_Logo.jpg" group-title="See" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/See%202019%20S01E05.srt",S01E05 - Plastic
+https://archive.org/download/s-2019/S2019S01E05.mp4
+
+#EXTINF:-1 tvg-id="6" tvg-name="S01E06 - Silk" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/See_Trailer_Logo.jpg/260px-See_Trailer_Logo.jpg" group-title="See" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/See%202019%20S01E06.srt",S01E06 - Silk
+https://archive.org/download/s-2019/S2019S01E06.mp4
+
+#EXTINF:-1 tvg-id="7" tvg-name="S01E07 - The Lavender Road" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/See_Trailer_Logo.jpg/260px-See_Trailer_Logo.jpg" group-title="See" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/See%202019%20S01E07.srt",S01E07 - The Lavender Road
+https://archive.org/download/s-2019/S2019S01E07.mp4
+
+#EXTINF:-1 tvg-id="8" tvg-name="S01E08 - House of Enlightenment" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/See_Trailer_Logo.jpg/260px-See_Trailer_Logo.jpg" group-title="See" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/See%202019%20S01E08.srt",S01E08 - House of Enlightenment
+https://archive.org/download/s-2019/S2019S01E08.mp4
 
 
 
@@ -6664,6 +6694,9 @@ https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.99.mp4
 
 #EXTINF:-1 tvg-id="100" tvg-name="Ep.100 - O Novo Poder e o All For One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.100 - O Novo Poder e o All For One
 https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.100.mp4
+
+#EXTINF:-1 tvg-id="101" tvg-name="Ep.101 - Feliz Natal!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boku_no_Hero_Academia_Logo.png/220px-Boku_no_Hero_Academia_Logo.png" group-title="My Hero Academia",Ep.101 - Feliz Natal!
+https://archive.org/download/my-hero-academia/My_Hero_Academia_Ep.101.mp4
 
 
 
