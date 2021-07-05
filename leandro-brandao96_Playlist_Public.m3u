@@ -11,45 +11,45 @@
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp1.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/rtp1.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP2" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp2.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/rtp2.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://ptiptv.tk/tvi.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/tvi.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP3" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp3.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/rtp3.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
-https://ptiptv.tk/tvi24.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/tvi24.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
-https://ptiptv.tk/tvi-direct.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/tvi-direct.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPM" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpm.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/rtpm.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpac.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/rtpac.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPMA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpmd.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/rtpmd.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="ARTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/artv.png",ARTV
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?env=arlive
@@ -63,13 +63,13 @@ http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPI" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online-324x235.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpi.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/rtpi.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICI" tvg-logo="https://ptiptv.tk/logo?i=SICINT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVII" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png",TVI Internacional
-https://ptiptv.tk/tvi-internacional.m3u8?fEnNVJabbhv2u1BUMRxLWh9VQPU
+https://ptiptv.tk/tvi-internacional.m3u8?fUnNVJabbhv2u1BUPXg8vcaDcl4
 
 
 
@@ -375,6 +375,9 @@ https://archive.org/download/ot-w-2021/OtW2021.mp4
 #EXTINF:-1 tvg-id="25" tvg-name="Batman: Soul of the Dragon" tvg-logo="http://mrpiracy.top/images/capas/tt12885852.jpg" group-title="Filmes Aventura" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Batman%20Soul%20of%20the%20Dragon%202021.srt",Batman: Soul of the Dragon
 https://archive.org/download/bsot-d-2021/BSotD2021.mp4
 
+#EXTINF:-1 tvg-id="26" tvg-name="Blue Miracle" tvg-logo="http://mrpiracy.top/images/capas/tt7084386.jpg" group-title="Filmes Aventura" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Blue%20Miracle%202021.srt",Blue Miracle
+https://archive.org/download/bm-2021/BM2021.mp4
+
 
 
 ##   Filmes Biografia   ##
@@ -410,6 +413,9 @@ https://archive.org/download/wwsld-2021/WWSLD2021.mp4
 
 #EXTINF:-1 tvg-id="10" tvg-name="Tony Parker: The Final Shot" tvg-logo="http://mrpiracy.top/images/capas/tt13696668.jpg" group-title="Filmes Biografia" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Tony%20Parker%20The%20Final%20Shot%202021.srt",Tony Parker: The Final Shot
 https://archive.org/download/tptfs-2021/TPTFS2021.mp4
+
+#EXTINF:-1 tvg-id="11" tvg-name="Blue Miracle" tvg-logo="http://mrpiracy.top/images/capas/tt7084386.jpg" group-title="Filmes Biografia" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Blue%20Miracle%202021.srt",Blue Miracle
+https://archive.org/download/bm-2021/BM2021.mp4
 
 
 
@@ -633,6 +639,9 @@ https://archive.org/download/ld-2021/LD2021.mp4
 #EXTINF:-1 tvg-id="29" tvg-name="Crack: Cocaine Corruption & Conspiracy" tvg-logo="http://mrpiracy.top/images/capas/tt13649700.jpg" group-title="Filmes Crime" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Crack%20Cocaine%20Corruption%20and%20Conspiracy%202021.srt",Crack: Cocaine Corruption & Conspiracy
 https://archive.org/download/cccc-2021/CCCC2021.mp4
 
+#EXTINF:-1 tvg-id="30" tvg-name="Nail Bomber: Manhunt" tvg-logo="http://mrpiracy.top/images/capas/tt12939812.jpg" group-title="Filmes Crime" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Nail%20Bomber%20Manhunt%202021.srt",Nail Bomber: Manhunt
+https://archive.org/download/nbm-2021/NBM2021.mp4
+
 
 
 ##   Filmes Curtas Metragens   ##
@@ -761,6 +770,9 @@ https://archive.org/download/tptfs-2021/TPTFS2021.mp4
 
 #EXTINF:-1 tvg-id="20" tvg-name="The Minimalists: Less Is Now" tvg-logo="http://mrpiracy.top/images/capas/tt13583144.jpg" group-title="Filmes Documentário" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Minimalists%20Less%20Is%20Now%202021.srt",The Minimalists: Less Is Now
 https://archive.org/download/tmlin-2021/TMLIN2021.mp4
+
+#EXTINF:-1 tvg-id="21" tvg-name="Nail Bomber: Manhunt" tvg-logo="http://mrpiracy.top/images/capas/tt12939812.jpg" group-title="Filmes Documentário" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Nail%20Bomber%20Manhunt%202021.srt",Nail Bomber: Manhunt
+https://archive.org/download/nbm-2021/NBM2021.mp4
 
 
 
@@ -993,6 +1005,9 @@ https://archive.org/download/ro-j-2020/RoJ2020.mp4
 #EXTINF:-1 tvg-id="75" tvg-name="What Happened to Mr Cha?" tvg-logo="http://mrpiracy.top/images/capas/tt13667212.jpg" group-title="Filmes Drama" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/What%20Happened%20to%20Mr%20Cha%202021.srt",What Happened to Mr Cha?
 https://archive.org/download/wht-mc-2021/WHtMC2021.mp4
 
+#EXTINF:-1 tvg-id="76" tvg-name="Blue Miracle" tvg-logo="http://mrpiracy.top/images/capas/tt7084386.jpg" group-title="Filmes Drama" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Blue%20Miracle%202021.srt",Blue Miracle
+https://archive.org/download/bm-2021/BM2021.mp4
+
 
 
 ##   Filmes Família   ##
@@ -1130,6 +1145,9 @@ https://archive.org/download/td-2021_202107/TD2021.mp4
 
 #EXTINF:-1 tvg-id="6" tvg-name="Crack: Cocaine Corruption & Conspiracy" tvg-logo="http://mrpiracy.top/images/capas/tt13649700.jpg" group-title="Filmes História" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Crack%20Cocaine%20Corruption%20and%20Conspiracy%202021.srt",Crack: Cocaine Corruption & Conspiracy
 https://archive.org/download/cccc-2021/CCCC2021.mp4
+
+#EXTINF:-1 tvg-id="7" tvg-name="Nail Bomber: Manhunt" tvg-logo="http://mrpiracy.top/images/capas/tt12939812.jpg" group-title="Filmes História" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Nail%20Bomber%20Manhunt%202021.srt",Nail Bomber: Manhunt
+https://archive.org/download/nbm-2021/NBM2021.mp4
 
 
 
