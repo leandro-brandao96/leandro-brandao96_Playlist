@@ -11,45 +11,45 @@
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP1" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp1.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/rtp1.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP2" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp2.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/rtp2.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SIC" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-hd.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png",TVI
-https://ptiptv.tk/tvi.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/tvi.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICN" tvg-logo="https://www.meo.pt/PublishingImages/canais/sic-noticias-hd.png",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTP3" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtp3.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/rtp3.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVI24" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi24.png",TVI24
-https://ptiptv.tk/tvi24.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/tvi24.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="PORTO" tvg-logo="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1253641036.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVIBB" tvg-logo="https://www.meo.pt/PublishingImages/canais/bb-duplo-impacto.png",TVI Reality
-https://ptiptv.tk/tvi-direct.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/tvi-direct.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPM" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpm.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/rtpm.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpac.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/rtpac.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPMA" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpmd.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/rtpmd.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="ARTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/artv.png",ARTV
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?env=arlive
@@ -63,13 +63,13 @@ http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="RTPI" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Internacional-em-direto-Online-324x235.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
-https://ptiptv.tk/rtpi.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/rtpi.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="SICI" tvg-logo="https://ptiptv.tk/logo?i=SICINT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="Portugal FREE IPTV" tvg-id="TVII" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png",TVI Internacional
-https://ptiptv.tk/tvi-internacional.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
+https://ptiptv.tk/tvi-internacional.m3u8?hUnNVJabbhv2u1BUOu_4wNxOu4c
 
 
 
@@ -81,50 +81,50 @@ https://ptiptv.tk/tvi-internacional.m3u8?g0nNVJabbhv2u1BU9Y0RtPI_7jU
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="The Colony" tvg-logo="http://mrpiracy.top/images/capas/tt6506264.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Colony%202021.srt",The Colony
+#EXTINF:-1 tvg-id="1" tvg-name="Till Death" tvg-logo="http://mrpiracy.top/images/capas/tt11804152.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Till%20Death%202021.srt",Till Death
+https://archive.org/download/tl-d-2021/TlD2021.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-name="The Colony" tvg-logo="http://mrpiracy.top/images/capas/tt6506264.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Colony%202021.srt",The Colony
 https://archive.org/download/tc-2021/TC2021.mp4
 
-#EXTINF:-1 tvg-id="2" tvg-name="Sherni" tvg-logo="http://mrpiracy.top/images/capas/tt10741542.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Sherni%202021.srt",Sherni
+#EXTINF:-1 tvg-id="3" tvg-name="Sherni" tvg-logo="http://mrpiracy.top/images/capas/tt10741542.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Sherni%202021.srt",Sherni
 https://archive.org/download/shi-2021/Shi2021.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-name="Settlers" tvg-logo="http://mrpiracy.top/images/capas/tt9373688.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Settlers%202021.srt",Settlers
+#EXTINF:-1 tvg-id="4" tvg-name="Settlers" tvg-logo="http://mrpiracy.top/images/capas/tt9373688.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Settlers%202021.srt",Settlers
 https://archive.org/download/stts-2021/Stts2021.mp4
 
-#EXTINF:-1 tvg-id="4" tvg-name="Black Widow" tvg-logo="http://mrpiracy.top/images/capas/tt3480822.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Black%20Widow%202021.srt",Black Widow
+#EXTINF:-1 tvg-id="5" tvg-name="Black Widow" tvg-logo="http://mrpiracy.top/images/capas/tt3480822.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Black%20Widow%202021.srt",Black Widow
 https://archive.org/download/bw-2021/BW2021.mp4
 
-#EXTINF:-1 tvg-id="5" tvg-name="Fear Street Part Two: 1978" tvg-logo="http://mrpiracy.top/images/capas/tt9701940.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20Street%20Part%20Two%201978%202021.srt",Fear Street Part Two: 1978
+#EXTINF:-1 tvg-id="6" tvg-name="Fear Street Part Two: 1978" tvg-logo="http://mrpiracy.top/images/capas/tt9701940.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20Street%20Part%20Two%201978%202021.srt",Fear Street Part Two: 1978
 https://archive.org/download/fspt-19782021/FSPT19782021.mp4
 
-#EXTINF:-1 tvg-id="6" tvg-name="Batman: The Long Halloween Part One" tvg-logo="http://mrpiracy.top/images/capas/tt14324650.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Batman%20The%20Long%20Halloween%20Part%20One%202021.srt",Batman: The Long Halloween Part One
+#EXTINF:-1 tvg-id="7" tvg-name="Batman: The Long Halloween Part One" tvg-logo="http://mrpiracy.top/images/capas/tt14324650.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Batman%20The%20Long%20Halloween%20Part%20One%202021.srt",Batman: The Long Halloween Part One
 https://archive.org/download/btlhpo-2021/BTLHPO2021.mp4
 
-#EXTINF:-1 tvg-id="7" tvg-name="Riders of Justice" tvg-logo="http://mrpiracy.top/images/capas/tt11655202.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Riders%20of%20Justice%202020.srt",Riders of Justice
+#EXTINF:-1 tvg-id="8" tvg-name="Riders of Justice" tvg-logo="http://mrpiracy.top/images/capas/tt11655202.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Riders%20of%20Justice%202020.srt",Riders of Justice
 https://archive.org/download/ro-j-2020/RoJ2020.mp4
 
-#EXTINF:-1 tvg-id="8" tvg-name="The Tomorrow War" tvg-logo="http://mrpiracy.top/images/capas/tt9777666.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Tomorrow%20War%202021.srt",The Tomorrow War
+#EXTINF:-1 tvg-id="9" tvg-name="The Tomorrow War" tvg-logo="http://mrpiracy.top/images/capas/tt9777666.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Tomorrow%20War%202021.srt",The Tomorrow War
 https://archive.org/download/ttw-2021/TTW2021.mp4
 
-#EXTINF:-1 tvg-id="9" tvg-name="No Sudden Move" tvg-logo="http://mrpiracy.top/images/capas/tt11525644.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/No%20Sudden%20Move%202021.srt",No Sudden Move
+#EXTINF:-1 tvg-id="10" tvg-name="No Sudden Move" tvg-logo="http://mrpiracy.top/images/capas/tt11525644.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/No%20Sudden%20Move%202021.srt",No Sudden Move
 https://archive.org/download/nsm-2021/NSM2021.mp4
 
-#EXTINF:-1 tvg-id="10" tvg-name="A Quiet Place Part II" tvg-logo="http://mrpiracy.top/images/capas/tt8332922.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/A%20Quiet%20Place%20Part%20II%202021.srt",A Quiet Place Part II
+#EXTINF:-1 tvg-id="11" tvg-name="A Quiet Place Part II" tvg-logo="http://mrpiracy.top/images/capas/tt8332922.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/A%20Quiet%20Place%20Part%20II%202021.srt",A Quiet Place Part II
 https://archive.org/download/aqppii-2021/AQPPII2021.mp4
 
-#EXTINF:-1 tvg-id="11" tvg-name="Fatherhood" tvg-logo="http://mrpiracy.top/images/capas/tt4733624.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fatherhood%202021.srt",Fatherhood
+#EXTINF:-1 tvg-id="12" tvg-name="Fatherhood" tvg-logo="http://mrpiracy.top/images/capas/tt4733624.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fatherhood%202021.srt",Fatherhood
 https://archive.org/download/fahd-2021/Fahd2021.mp4
 
-#EXTINF:-1 tvg-id="12" tvg-name="The Misfits" tvg-logo="http://mrpiracy.top/images/capas/tt4876134.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Misfits%202021.srt",The Misfits
+#EXTINF:-1 tvg-id="13" tvg-name="The Misfits" tvg-logo="http://mrpiracy.top/images/capas/tt4876134.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/The%20Misfits%202021.srt",The Misfits
 https://archive.org/download/tm-2021_202106/TM2021.mp4
 
-#EXTINF:-1 tvg-id="13" tvg-name="Tina" tvg-logo="http://mrpiracy.top/images/capas/tt8399720.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Tina%202021.srt",Tina
+#EXTINF:-1 tvg-id="14" tvg-name="Tina" tvg-logo="http://mrpiracy.top/images/capas/tt8399720.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Tina%202021.srt",Tina
 https://archive.org/download/ta-2021/Ta2021.mp4
 
-#EXTINF:-1 tvg-id="14" tvg-name="Luca" tvg-logo="http://mrpiracy.top/images/capas/tt12801262.jpg" group-title="Filmes Destaque",Luca
+#EXTINF:-1 tvg-id="15" tvg-name="Luca" tvg-logo="http://mrpiracy.top/images/capas/tt12801262.jpg" group-title="Filmes Destaque",Luca
 https://archive.org/download/lc-pt-2021/LcPT2021.mp4
-
-#EXTINF:-1 tvg-id="15" tvg-name="In The Heights" tvg-logo="http://mrpiracy.top/images/capas/tt1321510.jpg" group-title="Filmes Destaque" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/In%20The%20Heights%202021.srt",In The Heights
-https://archive.org/download/ith-2021/ITH2021.mp4
 
 
 
@@ -1294,6 +1294,15 @@ https://archive.org/download/tupo-n-2021/TUPoN2021.mp4
 
 
 
+##   Filmes Reality Show   ##
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="Dragging the Classics: The Brady Bunch" tvg-logo="http://mrpiracy.top/images/capas/tt14920388.jpg" group-title="Filmes Reality Show" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Dragging%20the%20Classics%20The%20Brady%20Bunch%202021.srt",Dragging the Classics: The Brady Bunch
+https://archive.org/download/dt-ctbb-2021/DtCTBB2021.mp4
+
+
+
 ##   Filmes Romance   ##
 
 
@@ -1408,6 +1417,9 @@ https://archive.org/download/aot-gbf-2021/AotGBF2021.mp4
 
 #EXTINF:-1 tvg-id="23" tvg-name="Fear Street Part Two: 1978" tvg-logo="http://mrpiracy.top/images/capas/tt9701940.jpg" group-title="Filmes Terror" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Fear%20Street%20Part%20Two%201978%202021.srt",Fear Street Part Two: 1978
 https://archive.org/download/fspt-19782021/FSPT19782021.mp4
+
+#EXTINF:-1 tvg-id="24" tvg-name="Till Death" tvg-logo="http://mrpiracy.top/images/capas/tt11804152.jpg" group-title="Filmes Terror" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Till%20Death%202021.srt",Till Death
+https://archive.org/download/tl-d-2021/TlD2021.mp4
 
 
 
@@ -1537,6 +1549,9 @@ https://archive.org/download/rd-2021_202107/RD2021.mp4
 
 #EXTINF:-1 tvg-id="41" tvg-name="Settlers" tvg-logo="http://mrpiracy.top/images/capas/tt9373688.jpg" group-title="Filmes Thriller" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Settlers%202021.srt",Settlers
 https://archive.org/download/stts-2021/Stts2021.mp4
+
+#EXTINF:-1 tvg-id="42" tvg-name="Till Death" tvg-logo="http://mrpiracy.top/images/capas/tt11804152.jpg" group-title="Filmes Thriller" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Till%20Death%202021.srt",Till Death
+https://archive.org/download/tl-d-2021/TlD2021.mp4
 
 
 
